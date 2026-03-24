@@ -305,7 +305,7 @@ Filter 2: ON PK Fc 20000.00 Hz Gain -5.24 dB Q 0.037
 </details>
 
 <details>
-  <summary><strong>Fostex T50RP</strong></summary>
+  <summary><strong>Fostex T50RP mk4</strong></summary>
 
   <div align="center">
     <img src="images/T50RP.png" alt="Fostex T50RP Energy-Balanced EQ" width="700">
