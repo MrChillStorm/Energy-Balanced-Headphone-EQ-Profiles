@@ -2,7 +2,9 @@
 
 ## Diffuse-Field Target as a Headphone
 
-If we take the classic Diffuse-Field (DF) target curve and force it to deliver uniform energy when reproducing white noise, this is what it needs:
+The classic Diffuse-Field (DF) target has been used for decades as a reference for neutral headphone tuning. 
+
+If we take that same DF curve and force it to deliver uniform energy when reproducing white noise, this is what it needs:
 
 <div align="center">
   <img src="images/DF.png" alt="Diffuse-Field target energy-balanced" width="700">
