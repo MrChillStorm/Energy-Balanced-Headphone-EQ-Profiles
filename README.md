@@ -517,6 +517,21 @@ Filter 2: ON PK Fc 20000.00 Hz Gain -4.41 dB Q 0.111
 </details>
 
 <details>
+  <summary><strong>HIFIMAN Sundara</strong></summary>
+
+  <div align="center">
+    <img src="images/Sundara.png" alt="HIFIMAN Sundara Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -1.3 dB
+Filter 1: ON PK Fc 20.00 Hz Gain 1.29 dB Q 0.150
+Filter 2: ON PK Fc 16981.07 Hz Gain -2.92 dB Q 0.154
+```
+
+</details>
+
+<details>
   <summary><strong>HIFIMAN Sundara Closed-Back</strong></summary>
 
   <div align="center">
