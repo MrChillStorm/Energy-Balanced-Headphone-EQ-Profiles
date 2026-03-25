@@ -246,6 +246,21 @@ Filter 2: ON PK Fc 19579.26 Hz Gain 1.62 dB Q 0.068
 </details>
 
 <details>
+  <summary><strong>DUNU Arashi</strong></summary>
+
+  <div align="center">
+    <img src="images/Arashi.png" alt="DUNU Arashi Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -9.5 dB
+Filter 1: ON PK Fc 20.00 Hz Gain 9.50 dB Q 0.919
+Filter 2: ON PK Fc 20000.00 Hz Gain -9.74 dB Q 0.280
+```
+
+</details>
+
+<details>
   <summary><strong>Drop + grell OAE1</strong></summary>
 
   <div align="center">
