@@ -292,6 +292,21 @@ Filter 2: ON PK Fc 20000.00 Hz Gain -4.98 dB Q 0.089
 </details>
 
 <details>
+  <summary><strong>FIIO FT7</strong></summary>
+
+  <div align="center">
+    <img src="images/FT7.png" alt="FIIO FT7 Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -3.5 dB
+Filter 1: ON PK Fc 20.00 Hz Gain 3.51 dB Q 0.041
+Filter 2: ON PK Fc 12203.03 Hz Gain -4.04 dB Q 0.152
+```
+
+</details>
+
+<details>
   <summary><strong>FIIO JT1</strong></summary>
 
   <div align="center">
