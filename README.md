@@ -337,6 +337,21 @@ Filter 2: ON PK Fc 20000.00 Hz Gain -5.24 dB Q 0.037
 </details>
 
 <details>
+  <summary><strong>Focal Clear MG Professional</strong></summary>
+
+  <div align="center">
+    <img src="images/ClearMGPro.png" alt="Focal Clear MG Professional Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -7.1 dB
+Filter 1: ON PK Fc 20.00 Hz Gain 7.08 dB Q 0.216
+Filter 2: ON PK Fc 20000.00 Hz Gain -4.14 dB Q 0.052
+```
+
+</details>
+
+<details>
   <summary><strong>Fostex T50RP mk4</strong></summary>
 
   <div align="center">
