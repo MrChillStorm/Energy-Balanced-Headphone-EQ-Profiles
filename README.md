@@ -653,6 +653,21 @@ Filter 2: ON PK Fc 20000.00 Hz Gain 10.25 dB Q 0.052
 </details>
 
 <details>
+  <summary><strong>Meze Audio Strada</strong></summary>
+
+  <div align="center">
+    <img src="images/Strada.png" alt="Meze Audio Strada Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -8.7 dB
+Filter 1: ON PK Fc 20.00 Hz Gain -12.88 dB Q 0.094
+Filter 2: ON PK Fc 20000.00 Hz Gain 8.70 dB Q 0.064
+```
+
+</details>
+
+<details>
   <summary><strong>MOONDROP COSMO</strong></summary>
 
   <div align="center">
