@@ -412,6 +412,21 @@ Filter 2: ON PK Fc 8242.75 Hz Gain -4.78 dB Q 0.254
 </details>
 
 <details>
+  <summary><strong>HEDD Audio HEDDphone TWO</strong></summary>
+
+  <div align="center">
+    <img src="images/HEDDPhoneTWO.png" alt="HEDD Audio HEDDphone TWO Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -3.1 dB
+Filter 1: ON PK Fc 20.00 Hz Gain 3.13 dB Q 0.259
+Filter 2: ON PK Fc 20000.00 Hz Gain -2.77 dB Q 0.041
+```
+
+</details>
+
+<details>
   <summary><strong>HIFIMAN Ananda Nano</strong></summary>
 
   <div align="center">
