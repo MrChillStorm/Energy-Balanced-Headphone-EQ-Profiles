@@ -833,6 +833,21 @@ Filter 2: ON PK Fc 19976.59 Hz Gain -3.63 dB Q 0.088
 </details>
 
 <details>
+  <summary><strong>Sennheiser HD 820</strong></summary>
+
+  <div align="center">
+    <img src="images/HD820.png" alt="Sennheiser HD 820 Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -4.8 dB
+Filter 1: ON PK Fc 40.29 Hz Gain -9.36 dB Q 0.516
+Filter 2: ON PK Fc 19999.08 Hz Gain 4.79 dB Q 0.043
+```
+
+</details>
+
+<details>
   <summary><strong>Sennheiser HDB 630 (ANC On)</strong></summary>
 
   <div align="center">
