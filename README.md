@@ -337,10 +337,10 @@ Filter 2: ON PK Fc 20000.00 Hz Gain -5.24 dB Q 0.037
 </details>
 
 <details>
-  <summary><strong>Focal Clear MG Professional</strong></summary>
+  <summary><strong>Focal Clear Professional</strong></summary>
 
   <div align="center">
-    <img src="images/ClearMGPro.png" alt="Focal Clear MG Professional Energy-Balanced EQ" width="700">
+    <img src="images/ClearPro.png" alt="Focal Clear Professional Energy-Balanced EQ" width="700">
   </div>
 
 ```text
