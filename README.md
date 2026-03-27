@@ -307,6 +307,21 @@ Filter 2: ON PK Fc 12203.03 Hz Gain -4.04 dB Q 0.152
 </details>
 
 <details>
+  <summary><strong>FIIO FT13</strong></summary>
+
+  <div align="center">
+    <img src="images/FT13.png" alt="FIIO FT13 Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -8.1 dB
+Filter 1: ON PK Fc 20.01 Hz Gain -2.53 dB Q 0.123
+Filter 2: ON PK Fc 19161.82 Hz Gain 8.10 dB Q 0.757
+```
+
+</details>
+
+<details>
   <summary><strong>FIIO JT1</strong></summary>
 
   <div align="center">
