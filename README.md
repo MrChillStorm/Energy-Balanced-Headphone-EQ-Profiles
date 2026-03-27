@@ -803,6 +803,21 @@ Filter 2: ON PK Fc 19985.99 Hz Gain -5.07 dB Q 0.044
 </details>
 
 <details>
+  <summary><strong>Sennheiser HD 580 Precision</strong></summary>
+
+  <div align="center">
+    <img src="images/HD580.png" alt="Sennheiser HD 580 Precision Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -4.2 dB
+Filter 1: ON PK Fc 20.00 Hz Gain 4.20 dB Q 0.322
+Filter 2: ON PK Fc 20000.00 Hz Gain -6.85 dB Q 0.044
+```
+
+</details>
+
+<details>
   <summary><strong>Sennheiser HD 600</strong></summary>
 
   <div align="center">
