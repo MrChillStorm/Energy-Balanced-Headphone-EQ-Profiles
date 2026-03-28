@@ -340,7 +340,7 @@ Filter 3: ON PK Fc 19186.20 Hz Gain 3.58 dB Q 0.097
   <summary><strong>FIIO FT1 Pro</strong></summary>
 
   <div align="center">
-    <img src="images/FT1.png" alt="FIIO FT1 Pro Energy-Balanced EQ" width="700">
+    <img src="images/FT1Pro.png" alt="FIIO FT1 Pro Energy-Balanced EQ" width="700">
   </div>
 
 ```text
