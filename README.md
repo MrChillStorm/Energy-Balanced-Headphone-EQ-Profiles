@@ -231,6 +231,21 @@ Filter 2: ON PK Fc 19527.42 Hz Gain 5.63 dB Q 0.062
 </details>
 
 <details>
+  <summary><strong>Beyerdynamic DT 770 Pro (32 ohm)</strong></summary>
+
+  <div align="center">
+    <img src="images/DT770.png" alt="Beyerdynamic DT 770 Pro (32 ohm) Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -4.0 dB
+Filter 1: ON PK Fc 21.97 Hz Gain -8.69 dB Q 0.205
+Filter 2: ON PK Fc 8163.63 Hz Gain 3.95 dB Q 0.388
+```
+
+</details>
+
+<details>
   <summary><strong>Beyerdynamic MMX 300 (2nd Gen)</strong></summary>
 
   <div align="center">
