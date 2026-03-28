@@ -337,6 +337,23 @@ Filter 3: ON PK Fc 19186.20 Hz Gain 3.58 dB Q 0.097
 </details>
 
 <details>
+  <summary><strong>FIIO FT1</strong></summary>
+
+  <div align="center">
+    <img src="images/FT1.png" alt="FIIO FT1 Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -7.7 dB
+Filter 1: ON PK Fc 33.94 Hz Gain -12.13 dB Q 0.319
+Filter 2: ON PK Fc 20000.00 Hz Gain 7.74 dB Q 0.052
+```
+
+</details>
+
+</details>
+
+<details>
   <summary><strong>FIIO FT1 Pro</strong></summary>
 
   <div align="center">
