@@ -54,7 +54,7 @@ Filter 2: ON PK Fc 15107.49 Hz Gain 9.93 dB Q 0.196
   <summary><strong>AKG K361</strong></summary>
 
   <div align="center">
-    <img src="images/K361.png" alt="AKG K361 Energy-Balanced EQ" width="700">
+    <img src="images/K612.png" alt="AKG K361 Energy-Balanced EQ" width="700">
   </div>
 
 ```text
