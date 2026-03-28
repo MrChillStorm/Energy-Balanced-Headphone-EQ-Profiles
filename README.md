@@ -96,6 +96,21 @@ Filter 2: ON PK Fc 20000.00 Hz Gain -7.52 dB Q 0.037
 </details>
 
 <details>
+  <summary><strong>AKG K712 PRO</strong></summary>
+
+  <div align="center">
+    <img src="images/K712.png" alt="AKG K712 PRO Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: 1.3 dB
+Filter 1: ON PK Fc 61.86 Hz Gain -6.27 dB Q 0.190
+Filter 2: ON PK Fc 19995.38 Hz Gain -2.87 dB Q 0.032
+```
+
+</details>
+
+<details>
   <summary><strong>AKG K812</strong></summary>
 
   <div align="center">
