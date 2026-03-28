@@ -352,6 +352,21 @@ Filter 2: ON PK Fc 20000.00 Hz Gain -4.98 dB Q 0.089
 </details>
 
 <details>
+  <summary><strong>FIIO FT5 (Suede Pads)</strong></summary>
+
+  <div align="center">
+    <img src="images/FT5.png" alt="FIIO FT5 (Suede Pads) Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -3.9 dB
+Filter 1: ON PK Fc 24.00 Hz Gain 3.87 dB Q 0.619
+Filter 2: ON PK Fc 20000.00 Hz Gain -0.78 dB Q 0.090
+```
+
+</details>
+
+<details>
   <summary><strong>FIIO FT7</strong></summary>
 
   <div align="center">
