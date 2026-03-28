@@ -81,6 +81,21 @@ Filter 2: ON PK Fc 20000.00 Hz Gain -7.52 dB Q 0.037
 </details>
 
 <details>
+  <summary><strong>AKG K812</strong></summary>
+
+  <div align="center">
+    <img src="images/K812.png" alt="AKG K812 Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -4.3 dB
+Filter 1: ON PK Fc 20.00 Hz Gain -2.60 dB Q 0.077
+Filter 2: ON PK Fc 20000.00 Hz Gain 4.31 dB Q 0.168
+```
+
+</details>
+
+<details>
   <summary><strong>Audeze LCD-S20</strong></summary>
 
   <div align="center">
