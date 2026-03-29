@@ -1,37 +1,78 @@
 # Energy-Balanced Headphone EQ Profiles
 
-## Diffuse-Field Target as a Headphone
+## A Warning Shot for DF Tuning
 
-The classic Diffuse-Field (DF) target has been used for decades as a reference for neutral headphone tuning. 
+The Diffuse-Field target has been the reference for neutral headphone tuning for decades. It describes what a headphone should sound like to match the acoustic conditions of a diffuse sound field.
 
-If we take that same DF curve and force it to deliver uniform energy when reproducing white noise, this is what it needs:
+Now ask what that same DF curve needs in order to deliver uniform energy when reproducing white noise:
 
 <div align="center">
   <img src="images/DF.png" alt="Diffuse-Field target energy-balanced" width="700">
 </div>
 
-```text
+```
 Preamp: 0.0 dB
 Filter 1: ON PK Fc 20.00 Hz Gain -4.58 dB Q 0.100
 Filter 2: ON PK Fc 1035.02 Hz Gain 2.50 dB Q 1.726
-Filter 3: ON PK Fc 20000.00 Hz Gain -4.30 dB Q 0.016  
+Filter 3: ON PK Fc 20000.00 Hz Gain -4.30 dB Q 0.016
 ```
 
-This shows that even the DF target contains excess treble energy when judged by uniform power delivery. Many "neutral" headphones carry a version of this skew.
+Even the canonical neutral target carries a significant treble energy excess when judged against uniform power delivery. Any headphone tuned to DF spec inherits that skew. So does any headphone tuned to a target derived from it.
+
+---
 
 ## What Energy-Balanced Means
 
-These EQ profiles correct headphones so they deliver uniform acoustic energy across frequencies (flat power per Hz, measured frame by frame against white noise).
+Standard headphone EQ corrects the *shape* of the frequency response -- it nudges the measured curve toward a target curve in the dB domain. This is effective for tonal balance, but it optimizes the wrong thing if temporal fidelity matters.
 
-Instead of chasing a visually flat dB curve or a perceptual target (Harman, DF, etc.), the goal is consistent energy distribution. This reduces masking between frequency bands and preserves natural transients.
+A frequency response measurement describes a headphone's average gain at each frequency. It says nothing about how evenly the headphone distributes energy across the spectrum during real playback. When some frequency bands carry significantly more acoustic power than others, their decay tails physically overlap transients in quieter bands -- smearing detail that should be distinct. The result is a kind of soft congestion that persists even after good tonal correction, because tonal correction was never targeting it.
 
-The result is usually:
-- Tighter and more authoritative bass without bloom
-- Natural mids that sit correctly without emphasis
-- Clear but relaxed treble without fatigue
-- Better imaging and a more open, out-of-head presentation
+Energy-balanced EQ targets the problem directly. The goal is flat acoustic power per Hz across all time frames, not just a flat average gain curve.
 
-All EQs use only broad filters to avoid ringing and phase artifacts.
+## How the Profiles Are Generated
+
+Each profile is produced by the following pipeline:
+
+1. A white-noise reference signal is convolved with the inverse of the headphone's measured frequency response, producing a pre-distorted signal that models the headphone's coloration. The candidate EQ is then applied to this signal, with the goal of recovering the original white noise as closely as possible.
+2. For each frame, the Power Spectral Density of the corrected signal is compared to the PSD of the reference frame, and the RMS deviation is computed.
+3. This frame-wise energy RMSE is aggregated across the full recording as mean, P95, and max.
+4. An optimizer searches for the smallest set of broad peaking IIR filters that minimizes mean frame-wise RMSE.
+
+White noise is the natural target because it carries exactly equal energy per Hz by definition. Minimizing frame-wise PSD deviation against white noise is therefore equivalent to equalizing acoustic power delivery across frequency and time simultaneously.
+
+The constraint to broad filters (low Q values) is not cosmetic. Narrow filters introduce pre-ringing and group delay artifacts that degrade temporal resolution even when they improve steady-state RMSE. Broad filters correct the overall energy tilt while leaving fine spectral structure intact.
+
+## Why This Differs from Matching a Perceptual Target
+
+Two EQs can produce nearly identical corrected frequency response curves on a graph while behaving very differently in the time domain.
+
+A Harman or DF-corrected EQ is optimized to match a target shape over the long-term average. The frame-by-frame energy distribution is not part of that optimization, so systematic imbalances between bands can persist. Those imbalances are what create the subtle smearing, reduced transient definition, and unstable imaging that survive even well-executed tonal correction.
+
+Energy-balanced EQ does not describe what the headphone should look like on a graph. It describes what the headphone should do with real audio in real time: deliver equal acoustic power at every frequency, in every moment.
+
+The audible effects tend to show up as:
+
+- Transients with clearly defined edges -- kick attacks, consonants, plucked string onsets
+- A stereo image that stays stable as dynamics change
+- Bass that stops when the note ends rather than accumulating between beats
+- Treble that is present and detailed without fatigue, because excess high-frequency energy is brought in line with the rest of the spectrum
+
+## How to Use These Profiles
+
+These are parametric EQ profiles in the standard ParametricEQ.txt format, compatible with any software that accepts it. Common options:
+
+- **Windows:** EqualizerAPO with the Peace GUI
+- **macOS:** eqMac with the parametric EQ plugin
+- **Android:** Wavelet (copy filter values into the parametric EQ section)
+- **Linux:** EasyEffects
+
+Copy the Preamp and Filter lines for your headphone into your EQ software. Set the preamp gain first -- it is required to avoid clipping.
+
+## A Note on Listening Level
+
+These profiles are calibrated against a physics-level target rather than a psychoacoustic preference model. At higher listening levels, where the ear's equal-loudness sensitivity naturally flattens, the result tends to feel tonally neutral in addition to being temporally clean. At lower volumes, bass and treble may feel slightly leaner than a Harman-tuned headphone. That is the physics of equal-loudness curves, not a flaw in the EQ.
+
+---
 
 ## Headphone EQ Profiles
 
@@ -363,8 +404,6 @@ Preamp: -7.7 dB
 Filter 1: ON PK Fc 33.94 Hz Gain -12.13 dB Q 0.319
 Filter 2: ON PK Fc 20000.00 Hz Gain 7.74 dB Q 0.052
 ```
-
-</details>
 
 </details>
 
@@ -1148,12 +1187,3 @@ Filter 2: ON PK Fc 3511.06 Hz Gain 0.09 dB Q 0.081
 ```
 
 </details>
-
-## Notes
-
-- All profiles are generated by minimizing frame-wise PSD RMSE against white noise.
-- The corrections focus on overall energy tilt rather than smoothing every small peak and dip.
-- These EQs work best at higher listening volumes where the ear's loudness contours flatten naturally.
-- At lower volumes the sound remains clean and coherent, though it may feel slightly leaner than heavily bass-boosted tunings.
-
-Feel free to use these profiles or as a reference for your own corrections.
