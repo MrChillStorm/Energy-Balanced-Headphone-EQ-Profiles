@@ -216,6 +216,21 @@ Filter 2: ON PK Fc 20000.00 Hz Gain -4.82 dB Q 0.044
 </details>
 
 <details>
+  <summary><strong>AUNE Audio AR5000</strong></summary>
+
+  <div align="center">
+    <img src="images/AR5000.png" alt="AUNE Audio AR5000 Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -1.1 dB
+Filter 1: ON PK Fc 21.00 Hz Gain 1.13 dB Q 2.999
+Filter 2: ON PK Fc 18412.59 Hz Gain -0.31 dB Q 0.079
+```
+
+</details>
+
+<details>
   <summary><strong>Beyerdynamic DT 1770 Pro</strong></summary>
 
   <div align="center">
