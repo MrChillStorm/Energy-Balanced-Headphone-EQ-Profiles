@@ -72,6 +72,12 @@ Copy the Preamp and Filter lines for your headphone into your EQ software. Set t
 
 These profiles are calibrated against a physics-level target rather than a psychoacoustic preference model. At higher listening levels, where the ear's equal-loudness sensitivity naturally flattens, the result tends to feel tonally neutral in addition to being temporally clean. At lower volumes, bass and treble may feel slightly leaner than a Harman-tuned headphone. That is the physics of equal-loudness curves, not a flaw in the EQ.
 
+## Reference Targets
+
+The `targets` folder contains energy-balanced versions of three widely used perceptual targets: Diffuse-Field, Harman Over-Ear 2018, and Harman In-Ear 2019. These are the original curves after applying the same energy-balancing correction described above -- their spectral power delivery has been flattened to match white noise while preserving the underlying tonal shape.
+
+They are provided for anyone who wants to use conventional dB-domain curve matching but with a physically corrected starting point. If you prefer the warmth of Harman or the leaner character of DF but still want flat energy delivery, these targets let you have both.
+
 ---
 
 ## Headphone EQ Profiles
