@@ -534,6 +534,22 @@ Filter 2: ON PK Fc 15985.75 Hz Gain -5.30 dB Q 0.708
 </details>
 
 <details>
+  <summary><strong>HarmonicDyne Poseidon</strong></summary>
+
+  <div align="center">
+    <img src="images/Poseidon.png" alt="HarmonicDyne Poseidon Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -10.5 dB
+Filter 1: ON PK Fc 20.00 Hz Gain 9.92 dB Q 0.524
+Filter 2: ON PK Fc 732.17 Hz Gain 3.06 dB Q 0.059
+Filter 3: ON PK Fc 19830.81 Hz Gain -5.60 dB Q 0.016
+```
+
+</details>
+
+<details>
   <summary><strong>HarmonicDyne Romantic</strong></summary>
 
   <div align="center">
