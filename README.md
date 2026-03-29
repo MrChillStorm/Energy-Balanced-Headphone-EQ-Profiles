@@ -11,10 +11,10 @@ If we take that same DF curve and force it to deliver uniform energy when reprod
 </div>
 
 ```text
-Preamp: -0.3 dB  
-Filter 1: ON PK Fc 43.69 Hz Gain -0.91 dB Q 0.172  
-Filter 2: ON PK Fc 1173.98 Hz Gain 2.83 dB Q 1.490  
-Filter 3: ON PK Fc 20000.00 Hz Gain -3.97 dB Q 0.015  
+Preamp: 0.0 dB
+Filter 1: ON PK Fc 20.00 Hz Gain -4.58 dB Q 0.100
+Filter 2: ON PK Fc 1035.02 Hz Gain 2.50 dB Q 1.726
+Filter 3: ON PK Fc 20000.00 Hz Gain -4.30 dB Q 0.016  
 ```
 
 This shows that even the DF target contains excess treble energy when judged by uniform power delivery. Many "neutral" headphones carry a version of this skew.
