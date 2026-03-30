@@ -866,6 +866,21 @@ Filter 2: ON PK Fc 20000.00 Hz Gain 10.25 dB Q 0.052
 </details>
 
 <details>
+  <summary><strong>Meze Audio Empyrean II</strong></summary>
+
+  <div align="center">
+    <img src="images/Empyrean2.png" alt="Meze Audio Empyrean II Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -0.4 dB
+Filter 1: ON PK Fc 94.05 Hz Gain -4.51 dB Q 0.340
+Filter 2: ON PK Fc 11876.87 Hz Gain 0.41 dB Q 0.015
+```
+
+</details>
+
+<details>
   <summary><strong>Meze Audio Strada</strong></summary>
 
   <div align="center">
