@@ -866,7 +866,7 @@ Filter 2: ON PK Fc 20000.00 Hz Gain 10.25 dB Q 0.052
 </details>
 
 <details>
-  <summary><strong>Meze Audio Empyrean II</strong></summary>
+  <summary><strong>Meze Audio Empyrean II (Duo Pads)</strong></summary>
 
   <div align="center">
     <img src="images/Empyrean2.png" alt="Meze Audio Empyrean II Energy-Balanced EQ" width="700">
