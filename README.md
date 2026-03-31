@@ -368,6 +368,21 @@ Filter 2: ON PK Fc 19579.26 Hz Gain 1.62 dB Q 0.068
 </details>
 
 <details>
+  <summary><strong>Dan Clark Audio Noire X</strong></summary>
+
+  <div align="center">
+    <img src="images/NoireX.png" alt="Dan Clark Audio Noire X Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -7.6 dB
+Filter 1: ON PK Fc 20.00 Hz Gain -1.84 dB Q 0.086
+Filter 2: ON PK Fc 18473.63 Hz Gain 7.60 dB Q 1.193
+```
+
+</details>
+
+<details>
   <summary><strong>DUNU Arashi</strong></summary>
 
   <div align="center">
