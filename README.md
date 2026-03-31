@@ -263,6 +263,21 @@ Filter 2: ON PK Fc 20000.00 Hz Gain -2.98 dB Q 0.040
 </details>
 
 <details>
+  <summary><strong>Audio-Technica ATH-ADX7000</strong></summary>
+
+  <div align="center">
+    <img src="images/ADX7000.png" alt="Audio-Technica ATH-ADX7000 Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -6.4 dB
+Filter 1: ON PK Fc 20.00 Hz Gain 6.42 dB Q 0.525
+Filter 2: ON PK Fc 20000.00 Hz Gain -6.54 dB Q 0.094
+```
+
+</details>
+
+<details>
   <summary><strong>Audio-Technica ATH-R70x</strong></summary>
 
   <div align="center">
