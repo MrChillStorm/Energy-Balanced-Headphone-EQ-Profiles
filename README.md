@@ -173,6 +173,21 @@ Filter 2: ON PK Fc 20000.00 Hz Gain 4.31 dB Q 0.168
 </details>
 
 <details>
+  <summary><strong>Audeze LCD-2 Closed-Back</strong></summary>
+
+  <div align="center">
+    <img src="images/LCD-2CB.png" alt="Audeze LCD-2 Closed-Back Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: 0.2 dB
+Filter 1: ON PK Fc 102.67 Hz Gain -0.96 dB Q 0.424
+Filter 2: ON PK Fc 19997.48 Hz Gain -1.28 dB Q 0.030
+```
+
+</details>
+
+<details>
   <summary><strong>Audeze LCD-S20</strong></summary>
 
   <div align="center">
