@@ -1,5 +1,17 @@
 # Energy-Balanced Headphone EQ Profiles
 
+> ### TL;DR
+>
+> This repository contains **energy-balanced EQ profiles** for headphones.
+>
+> Instead of matching perceptual targets like Harman or Diffuse-Field, these profiles correct the headphone to deliver **uniform acoustic power** across frequency and time. The result is usually cleaner transients, stronger and tighter bass slam, reduced smearing, and more natural staging -- using only 2–3 broad filters.
+>
+> **Core idea:** Most headphones have a significant energy tilt out of the box. Fixing that tilt removes the root cause of many common problems (thin bass, harsh or fatiguing treble, congested sound).
+>
+> **Scroll down for the full list of profiles.**
+>
+> See the [targets folder](targets/) for energy-balanced versions of the major perceptual curves.
+
 ## A Warning Shot for DF Tuning
 
 The Diffuse-Field target has been the reference for neutral headphone tuning for decades. It describes what a headphone should sound like to match the acoustic conditions of a diffuse sound field.
