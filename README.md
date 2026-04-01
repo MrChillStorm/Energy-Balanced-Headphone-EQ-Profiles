@@ -576,6 +576,21 @@ Filter 2: ON PK Fc 20000.00 Hz Gain -4.12 dB Q 0.052
 </details>
 
 <details>
+  <summary><strong>Focal Utopia</strong></summary>
+
+  <div align="center">
+    <img src="images/Utopia.png" alt="Focal Utopia Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -3.4 dB
+Filter 1: ON PK Fc 20.00 Hz Gain 3.42 dB Q 0.534
+Filter 2: ON PK Fc 20000.00 Hz Gain -5.13 dB Q 0.072
+```
+
+</details>
+
+<details>
   <summary><strong>Fostex T50RP mk4</strong></summary>
 
   <div align="center">
