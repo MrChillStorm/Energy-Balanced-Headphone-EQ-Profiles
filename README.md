@@ -94,6 +94,10 @@ They are provided for anyone who wants to use conventional dB-domain curve match
 
 Also included is the PC1 Neutral Target -- a data-driven reference derived entirely from measurement. It is computed by extracting the first principal component from the ten open-back headphones in this repository with the lowest post-correction energy RMSE, then passing the result through the same energy-balancing pipeline. The PC1 captures the shared tonal structure of the most physically accurate headphones in the dataset, corrected to ensure flat power delivery in its own right.
 
+<div align="center">
+  <img src="images/pc1_top10_energy_balanced_openbacks.png" alt="PC1 Neutral Target derived from top 10 energy-balanced open-backs" width="700">
+</div>
+
 ---
 
 ## Headphone EQ Profiles
