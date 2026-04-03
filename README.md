@@ -916,6 +916,21 @@ Filter 2: ON PK Fc 19983.54 Hz Gain -1.51 dB Q 0.070
 </details>
 
 <details>
+  <summary><strong>Meze Audio 105 Silva</strong></summary>
+
+  <div align="center">
+    <img src="images/105Silva.png" alt="Meze Audio 105 Silva Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -2.3 dB
+Filter 1: ON PK Fc 20.95 Hz Gain 2.34 dB Q 2.042
+Filter 2: ON PK Fc 20000.00 Hz Gain -2.01 dB Q 0.079
+```
+
+</details>
+
+<details>
   <summary><strong>Meze Audio 109 Pro</strong></summary>
 
   <div align="center">
