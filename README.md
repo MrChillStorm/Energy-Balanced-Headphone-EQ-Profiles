@@ -961,6 +961,21 @@ Filter 2: ON PK Fc 20000.00 Hz Gain 10.25 dB Q 0.052
 </details>
 
 <details>
+  <summary><strong>Meze Audio 2ND GEN 99 CLASSICS</strong></summary>
+
+  <div align="center">
+    <img src="images/99CLASSICS2.png" alt="Meze Audio 2ND GEN 99 CLASSICS Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -6.0 dB
+Filter 1: ON PK Fc 20.00 Hz Gain 5.97 dB Q 0.853
+Filter 2: ON PK Fc 17787.78 Hz Gain 3.29 dB Q 1.283
+```
+
+</details>
+
+<details>
   <summary><strong>Meze Audio Empyrean II (Duo Pads)</strong></summary>
 
   <div align="center">
