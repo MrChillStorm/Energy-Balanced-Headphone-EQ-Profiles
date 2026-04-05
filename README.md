@@ -614,6 +614,21 @@ Filter 2: ON PK Fc 20000.00 Hz Gain -4.12 dB Q 0.052
 </details>
 
 <details>
+  <summary><strong>Focal Elex</strong></summary>
+
+  <div align="center">
+    <img src="images/Elex.png" alt="Focal Elex Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -8.4 dB
+Filter 1: ON PK Fc 20.00 Hz Gain 8.44 dB Q 0.184
+Filter 2: ON PK Fc 20000.00 Hz Gain -4.65 dB Q 0.071
+```
+
+</details>
+
+<details>
   <summary><strong>Focal Utopia</strong></summary>
 
   <div align="center">
