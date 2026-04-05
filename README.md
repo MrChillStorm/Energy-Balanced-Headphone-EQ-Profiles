@@ -298,6 +298,21 @@ Filter 2: ON PK Fc 20000.00 Hz Gain -6.54 dB Q 0.094
 </details>
 
 <details>
+  <summary><strong>Audio-Technica ATH-M40x</strong></summary>
+
+  <div align="center">
+    <img src="images/M40x.png" alt="Audio-Technica ATH-M40x Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -2.1 dB
+Filter 1: ON PK Fc 20.00 Hz Gain -3.66 dB Q 0.107
+Filter 2: ON PK Fc 15961.98 Hz Gain 2.14 dB Q 0.220
+```
+
+</details>
+
+<details>
   <summary><strong>Audio-Technica ATH-R70x</strong></summary>
 
   <div align="center">
