@@ -313,6 +313,21 @@ Filter 2: ON PK Fc 15961.98 Hz Gain 2.14 dB Q 0.220
 </details>
 
 <details>
+  <summary><strong>Audio-Technica ATH-M50x</strong></summary>
+
+  <div align="center">
+    <img src="images/M50x.png" alt="Audio-Technica ATH-M50x Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -1.2 dB
+Filter 1: ON PK Fc 44.24 Hz Gain -8.79 dB Q 0.428
+Filter 2: ON PK Fc 7264.70 Hz Gain 1.20 dB Q 0.013
+```
+
+</details>
+
+<details>
   <summary><strong>Audio-Technica ATH-R70x</strong></summary>
 
   <div align="center">
