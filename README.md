@@ -599,6 +599,21 @@ Filter 2: ON PK Fc 20000.00 Hz Gain -5.24 dB Q 0.037
 </details>
 
 <details>
+  <summary><strong>Focal Clear</strong></summary>
+
+  <div align="center">
+    <img src="images/Clear.png" alt="Focal Clear Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -8.2 dB
+Filter 1: ON PK Fc 20.00 Hz Gain 8.25 dB Q 0.187
+Filter 2: ON PK Fc 19999.91 Hz Gain -4.67 dB Q 0.096
+```
+
+</details>
+
+<details>
   <summary><strong>Focal Clear Professional</strong></summary>
 
   <div align="center">
