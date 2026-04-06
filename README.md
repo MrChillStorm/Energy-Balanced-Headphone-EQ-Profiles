@@ -1321,6 +1321,21 @@ Filter 2: ON PK Fc 19979.05 Hz Gain 11.55 dB Q 0.011
 </details>
 
 <details>
+  <summary><strong>SIVGA Anser</strong></summary>
+
+  <div align="center">
+    <img src="images/Anser.png" alt="SIVGA Anser Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -5.6 dB
+Filter 1: ON PK Fc 33.25 Hz Gain -10.70 dB Q 0.121
+Filter 2: ON PK Fc 19096.88 Hz Gain 5.58 dB Q 0.079
+```
+
+</details>
+
+<details>
   <summary><strong>Sony MDR-7506</strong></summary>
 
   <div align="center">
