@@ -1081,6 +1081,21 @@ Filter 2: ON PK Fc 17224.20 Hz Gain -15.10 dB Q 1.654
 </details>
 
 <details>
+  <summary><strong>MOONDROP HORIZON</strong></summary>
+
+  <div align="center">
+    <img src="images/Horizon.png" alt="MOONDROP HORIZON Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -4.7 dB
+Filter 1: ON PK Fc 20.00 Hz Gain 4.66 dB Q 0.284
+Filter 2: ON PK Fc 18366.26 Hz Gain -6.00 dB Q 2.895
+```
+
+</details>
+
+<details>
   <summary><strong>MOONDROP SKYLAND</strong></summary>
 
   <div align="center">
