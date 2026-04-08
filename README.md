@@ -1426,6 +1426,21 @@ Filter 2: ON PK Fc 3511.06 Hz Gain 0.09 dB Q 0.081
 </details>
 
 <details>
+  <summary><strong>ZMFheadphones Bokeh Closed</strong></summary>
+
+  <div align="center">
+    <img src="images/BokehClosed.png" alt="ZMFheadphones Bokeh Closed Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -5.9 dB
+Filter 1: ON PK Fc 57.03 Hz Gain -5.93 dB Q 0.015
+Filter 2: ON PK Fc 17105.56 Hz Gain 5.98 dB Q 0.010
+```
+
+</details>
+
+<details>
   <summary><strong>ZMFheadphones Caldera Closed</strong></summary>
 
   <div align="center">
