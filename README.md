@@ -1424,3 +1424,18 @@ Filter 2: ON PK Fc 3511.06 Hz Gain 0.09 dB Q 0.081
 ```
 
 </details>
+
+<details>
+  <summary><strong>ZMFheadphones Caldera Closed</strong></summary>
+
+  <div align="center">
+    <img src="images/CalderaClosed.png" alt="ZMFheadphones Caldera Closed Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -1.2 dB
+Filter 1: ON PK Fc 35.62 Hz Gain -0.54 dB Q 0.386
+Filter 2: ON PK Fc 19808.73 Hz Gain 1.23 dB Q 3.000
+```
+
+</details>
