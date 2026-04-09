@@ -1441,6 +1441,21 @@ Filter 2: ON PK Fc 3511.06 Hz Gain 0.09 dB Q 0.081
 </details>
 
 <details>
+  <summary><strong>ZMFheadphones Aeolus</strong></summary>
+
+  <div align="center">
+    <img src="images/Aeolus.png" alt="ZMFheadphones Aeolus Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -7.4 dB
+Filter 1: ON PK Fc 20.00 Hz Gain 7.39 dB Q 0.256
+Filter 2: ON PK Fc 20000.00 Hz Gain -8.33 dB Q 0.190
+```
+
+</details>
+
+<details>
   <summary><strong>ZMFheadphones Atrium</strong></summary>
 
   <div align="center">
