@@ -1456,6 +1456,21 @@ Filter 2: ON PK Fc 20000.00 Hz Gain -4.14 dB Q 0.048
 </details>
 
 <details>
+  <summary><strong>ZMFheadphones Auteur Classic</strong></summary>
+
+  <div align="center">
+    <img src="images/AuteurClassic.png" alt="ZMFheadphones Auteur Classic Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -8.1 dB
+Filter 1: ON PK Fc 20.00 Hz Gain 8.10 dB Q 0.706
+Filter 2: ON PK Fc 20000.00 Hz Gain -8.93 dB Q 0.188
+```
+
+</details>
+
+<details>
   <summary><strong>ZMFheadphones BOKEH Closed</strong></summary>
 
   <div align="center">
