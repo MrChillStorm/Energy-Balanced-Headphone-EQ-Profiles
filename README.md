@@ -1456,10 +1456,10 @@ Filter 2: ON PK Fc 20000.00 Hz Gain -4.14 dB Q 0.048
 </details>
 
 <details>
-  <summary><strong>ZMFheadphones Bokeh Closed</strong></summary>
+  <summary><strong>ZMFheadphones BOKEH Closed</strong></summary>
 
   <div align="center">
-    <img src="images/BokehClosed.png" alt="ZMFheadphones Bokeh Closed Energy-Balanced EQ" width="700">
+    <img src="images/BokehClosed.png" alt="ZMFheadphones BOKEH Closed Energy-Balanced EQ" width="700">
   </div>
 
 ```text
