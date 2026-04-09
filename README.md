@@ -1441,6 +1441,21 @@ Filter 2: ON PK Fc 3511.06 Hz Gain 0.09 dB Q 0.081
 </details>
 
 <details>
+  <summary><strong>ZMFheadphones Atrium</strong></summary>
+
+  <div align="center">
+    <img src="images/Atrium.png" alt="ZMFheadphones Atrium Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -6.8 dB
+Filter 1: ON PK Fc 20.00 Hz Gain 6.76 dB Q 0.314
+Filter 2: ON PK Fc 20000.00 Hz Gain -4.14 dB Q 0.048
+```
+
+</details>
+
+<details>
   <summary><strong>ZMFheadphones Bokeh Closed</strong></summary>
 
   <div align="center">
