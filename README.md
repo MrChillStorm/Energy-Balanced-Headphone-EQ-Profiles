@@ -1499,3 +1499,18 @@ Filter 2: ON PK Fc 19808.73 Hz Gain 1.23 dB Q 3.000
 ```
 
 </details>
+
+<details>
+  <summary><strong>ZMFheadphones Verite Closed</strong></summary>
+
+  <div align="center">
+    <img src="images/VeriteClosed.png" alt="ZMFheadphones Verite Closed Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -7.1 dB
+Filter 1: ON PK Fc 20.00 Hz Gain 7.11 dB Q 0.674
+Filter 2: ON PK Fc 17558.50 Hz Gain -2.55 dB Q 0.768
+```
+
+</details>
