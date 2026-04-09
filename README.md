@@ -358,6 +358,21 @@ Filter 2: ON PK Fc 18412.59 Hz Gain -0.31 dB Q 0.079
 </details>
 
 <details>
+  <summary><strong>AUNE Audio SR7000</strong></summary>
+
+  <div align="center">
+    <img src="images/SR7000.png" alt="AUNE Audio SR7000 Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -3.4 dB
+Filter 1: ON PK Fc 20.63 Hz Gain -3.25 dB Q 0.109
+Filter 2: ON PK Fc 19363.88 Hz Gain 3.37 dB Q 0.066
+```
+
+</details>
+
+<details>
   <summary><strong>Beyerdynamic DT 1770 Pro</strong></summary>
 
   <div align="center">
