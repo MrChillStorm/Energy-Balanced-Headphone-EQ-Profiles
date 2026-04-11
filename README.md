@@ -1411,10 +1411,25 @@ Filter 2: ON PK Fc 20000.00 Hz Gain 10.06 dB Q 0.116
 </details>
 
 <details>
-  <summary><strong>Superlux HD 681</strong></summary>
+  <summary><strong>Superlux HD660PRO</strong></summary>
 
   <div align="center">
-    <img src="images/HD681.png" alt="Superlux HD 681 Energy-Balanced EQ" width="700">
+    <img src="images/HD660PRO.png" alt="Superlux HD660PRO Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -2.7 dB
+Filter 1: ON PK Fc 40.12 Hz Gain -19.22 dB Q 0.402
+Filter 2: ON PK Fc 19097.14 Hz Gain 2.68 dB Q 0.118
+```
+
+</details>
+
+<details>
+  <summary><strong>Superlux HD681</strong></summary>
+
+  <div align="center">
+    <img src="images/HD681.png" alt="Superlux HD681 Energy-Balanced EQ" width="700">
   </div>
 
 ```text
