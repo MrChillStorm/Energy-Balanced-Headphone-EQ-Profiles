@@ -1156,6 +1156,21 @@ Filter 2: ON PK Fc 19992.29 Hz Gain -13.47 dB Q 0.256
 </details>
 
 <details>
+  <summary><strong>Sennheiser HD 280 Pro</strong></summary>
+
+  <div align="center">
+    <img src="images/HD280Pro.png" alt="Sennheiser HD 280 Pro Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -3.3 dB
+Filter 1: ON PK Fc 20.01 Hz Gain -7.91 dB Q 0.095
+Filter 2: ON PK Fc 13441.19 Hz Gain 3.33 dB Q 0.128
+```
+
+</details>
+
+<details>
   <summary><strong>Sennheiser HD 490 Pro (Mixing Pads)</strong></summary>
 
   <div align="center">
