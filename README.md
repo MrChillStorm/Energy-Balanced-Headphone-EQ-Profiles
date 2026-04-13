@@ -1081,6 +1081,21 @@ Filter 2: ON PK Fc 20000.00 Hz Gain 8.83 dB Q 0.070
 </details>
 
 <details>
+  <summary><strong>MIRPH Designs MIRPH-1</strong></summary>
+
+  <div align="center">
+    <img src="images/MIRPH-1.png" alt="MIRPH Designs MIRPH-1 Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -1.9 dB
+Filter 1: ON PK Fc 20.00 Hz Gain 1.91 dB Q 0.278
+Filter 2: ON PK Fc 20000.00 Hz Gain 1.22 dB Q 0.062
+```
+
+</details>
+
+<details>
   <summary><strong>MOONDROP COSMO</strong></summary>
 
   <div align="center">
