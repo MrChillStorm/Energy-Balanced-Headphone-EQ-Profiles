@@ -1381,6 +1381,21 @@ Filter 2: ON PK Fc 19979.05 Hz Gain 11.55 dB Q 0.011
 </details>
 
 <details>
+  <summary><strong>Shanling HW600</strong></summary>
+
+  <div align="center">
+    <img src="images/HW600.png" alt="Shanling HW600 Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -6.5 dB
+Filter 1: ON PK Fc 20.00 Hz Gain 6.47 dB Q 0.184
+Filter 2: ON PK Fc 20000.00 Hz Gain -14.60 dB Q 0.316
+```
+
+</details>
+
+<details>
   <summary><strong>Shure SRH840A</strong></summary>
 
   <div align="center">
