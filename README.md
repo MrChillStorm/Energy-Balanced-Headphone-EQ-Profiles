@@ -1396,6 +1396,21 @@ Filter 2: ON PK Fc 20000.00 Hz Gain 11.81 dB Q 0.059
 </details>
 
 <details>
+  <summary><strong>Simgot EP5</strong></summary>
+
+  <div align="center">
+    <img src="images/EP5.png" alt="Simgot EP5 Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -6.9 dB
+Filter 1: ON PK Fc 20.00 Hz Gain -8.82 dB Q 0.059
+Filter 2: ON PK Fc 19612.12 Hz Gain 6.92 dB Q 0.588
+```
+
+</details>
+
+<details>
   <summary><strong>SIVGA Anser</strong></summary>
 
   <div align="center">
