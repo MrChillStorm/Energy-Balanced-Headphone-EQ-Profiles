@@ -1381,6 +1381,21 @@ Filter 2: ON PK Fc 19979.05 Hz Gain 11.55 dB Q 0.011
 </details>
 
 <details>
+  <summary><strong>Shure SRH840A</strong></summary>
+
+  <div align="center">
+    <img src="images/SRH840A.png" alt="Shure SRH840A Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -11.8 dB
+Filter 1: ON PK Fc 55.14 Hz Gain -24.00 dB Q 0.383
+Filter 2: ON PK Fc 20000.00 Hz Gain 11.81 dB Q 0.059
+```
+
+</details>
+
+<details>
   <summary><strong>SIVGA Anser</strong></summary>
 
   <div align="center">
