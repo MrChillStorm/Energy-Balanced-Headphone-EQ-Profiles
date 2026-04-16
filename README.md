@@ -689,6 +689,21 @@ Filter 2: ON PK Fc 15985.75 Hz Gain -5.30 dB Q 0.708
 </details>
 
 <details>
+  <summary><strong>grell OAE2</strong></summary>
+
+  <div align="center">
+    <img src="images/OAE2.png" alt="grell OAE2 Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -4.7 dB
+Filter 1: ON PK Fc 20.00 Hz Gain 4.73 dB Q 0.511
+Filter 2: ON PK Fc 20000.00 Hz Gain -3.38 dB Q 0.074
+```
+
+</details>
+
+<details>
   <summary><strong>HarmonicDyne Poseidon</strong></summary>
 
   <div align="center">
