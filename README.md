@@ -1126,6 +1126,21 @@ Filter 2: ON PK Fc 18366.26 Hz Gain -6.00 dB Q 2.895
 </details>
 
 <details>
+  <summary><strong>MOONDROP PARA2</strong></summary>
+
+  <div align="center">
+    <img src="images/Para2.png" alt="MOONDROP PARA2 Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -7.8 dB
+Filter 1: ON PK Fc 20.00 Hz Gain 7.77 dB Q 0.151
+Filter 2: ON PK Fc 16227.87 Hz Gain -5.60 dB Q 0.366
+```
+
+</details>
+
+<details>
   <summary><strong>MOONDROP SKYLAND</strong></summary>
 
   <div align="center">
