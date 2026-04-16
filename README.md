@@ -1426,6 +1426,21 @@ Filter 2: ON PK Fc 20000.00 Hz Gain 11.81 dB Q 0.059
 </details>
 
 <details>
+  <summary><strong>Shure SRH1840</strong></summary>
+
+  <div align="center">
+    <img src="images/SRH1840.png" alt="Shure SRH1840 Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: 0.4 dB
+Filter 1: ON PK Fc 404.67 Hz Gain -0.80 dB Q 0.045
+Filter 2: ON PK Fc 15446.61 Hz Gain -5.75 dB Q 0.097
+```
+
+</details>
+
+<details>
   <summary><strong>Simgot EP5</strong></summary>
 
   <div align="center">
