@@ -1396,6 +1396,21 @@ Filter 2: ON PK Fc 9645.82 Hz Gain 1.26 dB Q 0.159
 </details>
 
 <details>
+  <summary><strong>Sennheiser HE 60</strong></summary>
+
+  <div align="center">
+    <img src="images/HE60.png" alt="Sennheiser HE 60 Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -3.9 dB
+Filter 1: ON PK Fc 20.00 Hz Gain 3.87 dB Q 0.194
+Filter 2: ON PK Fc 20000.00 Hz Gain -7.82 dB Q 0.080
+```
+
+</details>
+
+<details>
   <summary><strong>Sennheiser Momentum 4</strong></summary>
 
   <div align="center">
