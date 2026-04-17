@@ -1186,6 +1186,21 @@ Filter 2: ON PK Fc 18216.56 Hz Gain -7.70 dB Q 2.037
 </details>
 
 <details>
+  <summary><strong>NOTHING cmf headphone pro</strong></summary>
+
+  <div align="center">
+    <img src="images/cmfheadphonepro.png" alt="NOTHING cmf headphone pro Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -12.1 dB
+Filter 1: ON PK Fc 49.71 Hz Gain -21.80 dB Q 0.419
+Filter 2: ON PK Fc 14475.22 Hz Gain 12.13 dB Q 0.242
+```
+
+</details>
+
+<details>
   <summary><strong>NOTHING headphone (1)</strong></summary>
 
   <div align="center">
