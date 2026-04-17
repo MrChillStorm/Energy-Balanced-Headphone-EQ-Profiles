@@ -1186,6 +1186,21 @@ Filter 2: ON PK Fc 18216.56 Hz Gain -7.70 dB Q 2.037
 </details>
 
 <details>
+  <summary><strong>NOTHING headphone (1)</strong></summary>
+
+  <div align="center">
+    <img src="images/headphone(1).png" alt="NOTHING headphone (1) Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -7.2 dB
+Filter 1: ON PK Fc 20.00 Hz Gain -6.87 dB Q 0.101
+Filter 2: ON PK Fc 20000.00 Hz Gain 7.25 dB Q 0.051
+```
+
+</details>
+
+<details>
   <summary><strong>Philips SPH9600</strong></summary>
 
   <div align="center">
