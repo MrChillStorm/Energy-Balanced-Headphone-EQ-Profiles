@@ -1411,6 +1411,21 @@ Filter 2: ON PK Fc 20000.00 Hz Gain -7.82 dB Q 0.080
 </details>
 
 <details>
+  <summary><strong>Sennheiser HE 90</strong></summary>
+
+  <div align="center">
+    <img src="images/HE90.png" alt="Sennheiser HE 90 Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -2.0 dB
+Filter 1: ON PK Fc 20.00 Hz Gain 1.98 dB Q 0.293
+Filter 2: ON PK Fc 20000.00 Hz Gain -4.73 dB Q 0.045
+```
+
+</details>
+
+<details>
   <summary><strong>Sennheiser Momentum 4</strong></summary>
 
   <div align="center">
