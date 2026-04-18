@@ -103,6 +103,21 @@ Also included is the PC1 Neutral Target -- a data-driven reference derived entir
 ## Headphone EQ Profiles
 
 <details>
+  <summary><strong>ABYSS AB1266 TC</strong></summary>
+
+  <div align="center">
+    <img src="images/AB1266TC.png" alt="ABYSS AB1266 TC Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: 0.0 dB
+Filter 1: ON PK Fc 29.10 Hz Gain -0.36 dB Q 3.000
+Filter 2: ON PK Fc 18338.93 Hz Gain -11.30 dB Q 2.811
+```
+
+</details>
+
+<details>
   <summary><strong>ADAM Audio H200</strong></summary>
 
   <div align="center">
