@@ -1261,6 +1261,21 @@ Filter 2: ON PK Fc 20000.00 Hz Gain -4.30 dB Q 0.060
 </details>
 
 <details>
+  <summary><strong>Sennheiser HD 505</strong></summary>
+
+  <div align="center">
+    <img src="images/HD505.png" alt="Sennheiser HD 505 Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -4.7 dB
+Filter 1: ON PK Fc 20.00 Hz Gain 4.66 dB Q 0.298
+Filter 2: ON PK Fc 20000.00 Hz Gain -5.07 dB Q 0.039
+```
+
+</details>
+
+<details>
   <summary><strong>Sennheiser HD 550</strong></summary>
 
   <div align="center">
