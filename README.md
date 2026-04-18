@@ -1621,6 +1621,21 @@ Filter 2: ON PK Fc 20000.00 Hz Gain 10.06 dB Q 0.116
 </details>
 
 <details>
+  <summary><strong>STAX SR-X9000</strong></summary>
+
+  <div align="center">
+    <img src="images/SR-X9000.png" alt="STAX SR-X9000 Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -8.1 dB
+Filter 1: ON PK Fc 20.00 Hz Gain 8.06 dB Q 0.139
+Filter 2: ON PK Fc 20000.00 Hz Gain -6.87 dB Q 0.369
+```
+
+</details>
+
+<details>
   <summary><strong>Superlux HD660PRO</strong></summary>
 
   <div align="center">
