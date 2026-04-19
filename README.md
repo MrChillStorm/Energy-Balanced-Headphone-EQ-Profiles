@@ -719,6 +719,21 @@ Filter 2: ON PK Fc 15985.75 Hz Gain -5.30 dB Q 0.708
 </details>
 
 <details>
+  <summary><strong>Grado SR325x</strong></summary>
+
+  <div align="center">
+    <img src="images/SR325x.png" alt="Grado SR325x Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -8.9 dB
+Filter 1: ON PK Fc 20.00 Hz Gain 8.89 dB Q 0.345
+Filter 2: ON PK Fc 20000.00 Hz Gain -4.29 dB Q 0.054
+```
+
+</details>
+
+<details>
   <summary><strong>grell OAE2</strong></summary>
 
   <div align="center">
