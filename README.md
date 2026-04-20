@@ -148,6 +148,22 @@ Filter 2: ON PK Fc 18123.73 Hz Gain 9.40 dB Q 0.570
 </details>
 
 <details>
+  <summary><strong>AKG K371</strong></summary>
+
+  <div align="center">
+    <img src="images/K371.png" alt="AKG K371 Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -10.7 dB
+Filter 1: ON PK Fc 41.57 Hz Gain -14.40 dB Q 0.012
+Filter 2: ON PK Fc 3602.25 Hz Gain 13.60 dB Q 0.065
+Filter 3: ON PK Fc 8487.50 Hz Gain -9.08 dB Q 3.000
+```
+
+</details>
+
+<details>
   <summary><strong>AKG K612 PRO</strong></summary>
 
   <div align="center">
