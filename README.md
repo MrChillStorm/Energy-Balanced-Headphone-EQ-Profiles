@@ -1172,6 +1172,21 @@ Filter 2: ON PK Fc 19498.39 Hz Gain 7.20 dB Q 2.632
 </details>
 
 <details>
+  <summary><strong>Meze Audio POET</strong></summary>
+
+  <div align="center">
+    <img src="images/Poet.png" alt="Meze Audio POET Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -8.1 dB
+Filter 1: ON PK Fc 20.00 Hz Gain 8.07 dB Q 0.274
+Filter 2: ON PK Fc 15877.18 Hz Gain -3.50 dB Q 0.282
+```
+
+</details>
+
+<details>
   <summary><strong>Meze Audio STRADA</strong></summary>
 
   <div align="center">
