@@ -961,16 +961,16 @@ Filter 2: ON PK Fc 20000.00 Hz Gain -1.56 dB Q 0.084
 </details>
 
 <details>
-  <summary><strong>HIFIMAN HE1000 Unveiled</strong></summary>
+  <summary><strong>HIFIMAN HE400se</strong></summary>
 
   <div align="center">
-    <img src="images/HE1000Unveiled.png" alt="HIFIMAN HE1000 Unveiled Energy-Balanced EQ" width="700">
+    <img src="images/HE400se.png" alt="HIFIMAN HE400se Energy-Balanced EQ" width="700">
   </div>
 
 ```text
-Preamp: 0.3 dB
-Filter 1: ON PK Fc 73.50 Hz Gain -1.91 dB Q 0.336
-Filter 2: ON PK Fc 16217.48 Hz Gain -1.31 dB Q 0.093
+Preamp: -6.1 dB
+Filter 1: ON PK Fc 20.00 Hz Gain 6.08 dB Q 0.696
+Filter 2: ON PK Fc 20000.00 Hz Gain -7.73 dB Q 0.157
 ```
 
 </details>
@@ -1001,6 +1001,21 @@ Filter 2: ON PK Fc 19999.94 Hz Gain -2.99 dB Q 0.099
 Preamp: -4.2 dB
 Filter 1: ON PK Fc 20.00 Hz Gain 4.23 dB Q 0.122
 Filter 2: ON PK Fc 20000.00 Hz Gain -4.41 dB Q 0.111
+```
+
+</details>
+
+<details>
+  <summary><strong>HIFIMAN HE1000 Unveiled</strong></summary>
+
+  <div align="center">
+    <img src="images/HE1000Unveiled.png" alt="HIFIMAN HE1000 Unveiled Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: 0.3 dB
+Filter 1: ON PK Fc 73.50 Hz Gain -1.91 dB Q 0.336
+Filter 2: ON PK Fc 16217.48 Hz Gain -1.31 dB Q 0.093
 ```
 
 </details>
