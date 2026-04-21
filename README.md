@@ -1082,10 +1082,10 @@ Filter 2: ON PK Fc 19983.54 Hz Gain -1.51 dB Q 0.070
 </details>
 
 <details>
-  <summary><strong>Meze Audio 105 Silva</strong></summary>
+  <summary><strong>Meze Audio 105 SILVA</strong></summary>
 
   <div align="center">
-    <img src="images/105Silva.png" alt="Meze Audio 105 Silva Energy-Balanced EQ" width="700">
+    <img src="images/105Silva.png" alt="Meze Audio 105 SILVA Energy-Balanced EQ" width="700">
   </div>
 
 ```text
@@ -1097,10 +1097,10 @@ Filter 2: ON PK Fc 20000.00 Hz Gain -2.01 dB Q 0.079
 </details>
 
 <details>
-  <summary><strong>Meze Audio 109 Pro</strong></summary>
+  <summary><strong>Meze Audio 109 PRO</strong></summary>
 
   <div align="center">
-    <img src="images/109Pro.png" alt="Meze Audio 109 Pro Energy-Balanced EQ" width="700">
+    <img src="images/109Pro.png" alt="Meze Audio 109 PRO Energy-Balanced EQ" width="700">
   </div>
 
 ```text
@@ -1127,10 +1127,10 @@ Filter 2: ON PK Fc 20000.00 Hz Gain 10.25 dB Q 0.052
 </details>
 
 <details>
-  <summary><strong>Meze Audio 2ND GEN 99 CLASSICS</strong></summary>
+  <summary><strong>Meze Audio 99 CLASSICS (2ND GEN)</strong></summary>
 
   <div align="center">
-    <img src="images/99CLASSICS2.png" alt="Meze Audio 2ND GEN 99 CLASSICS Energy-Balanced EQ" width="700">
+    <img src="images/99CLASSICS2.png" alt="Meze Audio 99 CLASSICS (2ND GEN) Energy-Balanced EQ" width="700">
   </div>
 
 ```text
@@ -1160,7 +1160,7 @@ Filter 2: ON PK Fc 11876.87 Hz Gain 0.41 dB Q 0.015
   <summary><strong>Meze Audio LIRIC (2nd Gen)</strong></summary>
 
   <div align="center">
-    <img src="images/Liric2.png" alt="Meze Audio LIRIC (2nd Gen) Energy-Balanced EQ" width="700">
+    <img src="images/Liric2.png" alt="Meze Audio LIRIC (2ND GEN) Energy-Balanced EQ" width="700">
   </div>
 
 ```text
@@ -1172,10 +1172,10 @@ Filter 2: ON PK Fc 19498.39 Hz Gain 7.20 dB Q 2.632
 </details>
 
 <details>
-  <summary><strong>Meze Audio Strada</strong></summary>
+  <summary><strong>Meze Audio STRADA</strong></summary>
 
   <div align="center">
-    <img src="images/Strada.png" alt="Meze Audio Strada Energy-Balanced EQ" width="700">
+    <img src="images/Strada.png" alt="Meze Audio STRADA Energy-Balanced EQ" width="700">
   </div>
 
 ```text
