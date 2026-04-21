@@ -1067,6 +1067,21 @@ Filter 3: ON PK Fc 20000.00 Hz Gain -5.41 dB Q 0.054
 </details>
 
 <details>
+  <summary><strong>HIFIMAN Susvara</strong></summary>
+
+  <div align="center">
+    <img src="images/Susvara.png" alt="HIFIMAN Susvara Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: 0.2 dB
+Filter 1: ON PK Fc 118.61 Hz Gain -1.37 dB Q 0.458
+Filter 2: ON PK Fc 19999.79 Hz Gain -2.28 dB Q 0.085
+```
+
+</details>
+
+<details>
   <summary><strong>HIFIMAN Susvara Unveiled</strong></summary>
 
   <div align="center">
