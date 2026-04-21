@@ -1157,6 +1157,21 @@ Filter 2: ON PK Fc 11876.87 Hz Gain 0.41 dB Q 0.015
 </details>
 
 <details>
+  <summary><strong>Meze Audio LIRIC (2nd Gen)</strong></summary>
+
+  <div align="center">
+    <img src="images/Liric2.png" alt="Meze Audio LIRIC (2nd Gen) Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -8.0 dB
+Filter 1: ON PK Fc 9223.47 Hz Gain 0.79 dB Q 0.012
+Filter 2: ON PK Fc 19498.39 Hz Gain 7.20 dB Q 2.632
+```
+
+</details>
+
+<details>
   <summary><strong>Meze Audio Strada</strong></summary>
 
   <div align="center">
