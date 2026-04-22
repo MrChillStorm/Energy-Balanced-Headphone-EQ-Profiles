@@ -1172,6 +1172,21 @@ Filter 2: ON PK Fc 17787.78 Hz Gain 3.29 dB Q 1.283
 </details>
 
 <details>
+  <summary><strong>Meze Audio ELITE</strong></summary>
+
+  <div align="center">
+    <img src="images/Elite.png" alt="Meze Audio ELITE Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: 0.0 dB
+Filter 1: ON PK Fc 20.00 Hz Gain -6.82 dB Q 0.118
+Filter 2: ON PK Fc 17291.21 Hz Gain -3.65 dB Q 3.000
+```
+
+</details>
+
+<details>
   <summary><strong>Meze Audio EMPYREAN II (Duo Pads)</strong></summary>
 
   <div align="center">
