@@ -434,10 +434,10 @@ Filter 2: ON PK Fc 19363.88 Hz Gain 3.37 dB Q 0.066
 </details>
 
 <details>
-  <summary><strong>Beyerdynamic DT 1770 Pro</strong></summary>
+  <summary><strong>beyerdynamic DT 1770 PRO</strong></summary>
 
   <div align="center">
-    <img src="images/DT1770.png" alt="Beyerdynamic DT 1770 Pro Energy-Balanced EQ" width="700">
+    <img src="images/DT1770.png" alt="beyerdynamic DT 1770 PRO Energy-Balanced EQ" width="700">
   </div>
 
 ```text
@@ -449,10 +449,10 @@ Filter 2: ON PK Fc 17989.16 Hz Gain 4.28 dB Q 0.916
 </details>
 
 <details>
-  <summary><strong>Beyerdynamic DT 270 Pro</strong></summary>
+  <summary><strong>beyerdynamic DT 270 PRO</strong></summary>
 
   <div align="center">
-    <img src="images/DT270.png" alt="Beyerdynamic DT 270 Pro Energy-Balanced EQ" width="700">
+    <img src="images/DT270.png" alt="beyerdynamic DT 270 PRO Energy-Balanced EQ" width="700">
   </div>
 
 ```text
@@ -464,10 +464,10 @@ Filter 2: ON PK Fc 20000.00 Hz Gain -3.21 dB Q 0.033
 </details>
 
 <details>
-  <summary><strong>Beyerdynamic DT 700 Pro X</strong></summary>
+  <summary><strong>beyerdynamic DT 700 PRO X</strong></summary>
 
   <div align="center">
-    <img src="images/DT700.png" alt="Beyerdynamic DT 700 Pro X Energy-Balanced EQ" width="700">
+    <img src="images/DT700.png" alt="beyerdynamic DT 700 PRO X Energy-Balanced EQ" width="700">
   </div>
 
 ```text
@@ -479,10 +479,10 @@ Filter 2: ON PK Fc 19527.42 Hz Gain 5.63 dB Q 0.062
 </details>
 
 <details>
-  <summary><strong>Beyerdynamic DT 770 Pro (32 ohm)</strong></summary>
+  <summary><strong>beyerdynamic DT 770 PRO (32 ohm)</strong></summary>
 
   <div align="center">
-    <img src="images/DT770.png" alt="Beyerdynamic DT 770 Pro (32 ohm) Energy-Balanced EQ" width="700">
+    <img src="images/DT770.png" alt="beyerdynamic DT 770 PRO (32 ohm) Energy-Balanced EQ" width="700">
   </div>
 
 ```text
@@ -494,10 +494,10 @@ Filter 2: ON PK Fc 8163.63 Hz Gain 3.95 dB Q 0.388
 </details>
 
 <details>
-  <summary><strong>Beyerdynamic MMX 300 (2nd Gen)</strong></summary>
+  <summary><strong>beyerdynamic MMX 300 (2nd Gen)</strong></summary>
 
   <div align="center">
-    <img src="images/MMX300.png" alt="Beyerdynamic MMX 300 Energy-Balanced EQ" width="700">
+    <img src="images/MMX300.png" alt="beyerdynamic MMX 300 Energy-Balanced EQ" width="700">
   </div>
 
 ```text
