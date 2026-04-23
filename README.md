@@ -539,10 +539,10 @@ Filter 2: ON PK Fc 20000.00 Hz Gain -3.41 dB Q 0.091
 </details>
 
 <details>
-  <summary><strong>Dan Clark Audio AEON 2 CLOSED</strong></summary>
+  <summary><strong>Dan Clark Audio AEON 2 Closed</strong></summary>
 
   <div align="center">
-    <img src="images/Aeon2Closed.png" alt="Dan Clark Audio AEON 2 CLOSED Energy-Balanced EQ" width="700">
+    <img src="images/Aeon2Closed.png" alt="Dan Clark Audio AEON 2 Closed Energy-Balanced EQ" width="700">
   </div>
 
 ```text
