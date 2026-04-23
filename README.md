@@ -479,6 +479,21 @@ Filter 2: ON PK Fc 8163.63 Hz Gain 3.95 dB Q 0.388
 </details>
 
 <details>
+  <summary><strong>beyerdynamic DT 880</strong></summary>
+
+  <div align="center">
+    <img src="images/DT880.png" alt="beyerdynamic DT 880 Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -4.0 dB
+Filter 1: ON PK Fc 21.21 Hz Gain 4.05 dB Q 1.460
+Filter 2: ON PK Fc 20000.00 Hz Gain -4.14 dB Q 0.045
+```
+
+</details>
+
+<details>
   <summary><strong>beyerdynamic DT 990 PRO X</strong></summary>
 
   <div align="center">
