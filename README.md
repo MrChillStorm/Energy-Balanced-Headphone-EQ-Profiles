@@ -434,21 +434,6 @@ Filter 2: ON PK Fc 19363.88 Hz Gain 3.37 dB Q 0.066
 </details>
 
 <details>
-  <summary><strong>beyerdynamic DT 1770 PRO</strong></summary>
-
-  <div align="center">
-    <img src="images/DT1770.png" alt="beyerdynamic DT 1770 PRO Energy-Balanced EQ" width="700">
-  </div>
-
-```text
-Preamp: -4.3 dB
-Filter 1: ON PK Fc 29.04 Hz Gain -2.21 dB Q 0.350
-Filter 2: ON PK Fc 17989.16 Hz Gain 4.28 dB Q 0.916
-```
-
-</details>
-
-<details>
   <summary><strong>beyerdynamic DT 270 PRO</strong></summary>
 
   <div align="center">
@@ -489,6 +474,36 @@ Filter 2: ON PK Fc 19527.42 Hz Gain 5.63 dB Q 0.062
 Preamp: -4.0 dB
 Filter 1: ON PK Fc 21.97 Hz Gain -8.69 dB Q 0.205
 Filter 2: ON PK Fc 8163.63 Hz Gain 3.95 dB Q 0.388
+```
+
+</details>
+
+<details>
+  <summary><strong>beyerdynamic DT 990 PRO X</strong></summary>
+
+  <div align="center">
+    <img src="images/DT990ProX.png" alt="beyerdynamic DT 990 PRO X Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -0.2 dB
+Filter 1: ON PK Fc 1080.39 Hz Gain 0.77 dB Q 0.661
+Filter 2: ON PK Fc 19994.40 Hz Gain -5.93 dB Q 0.048
+```
+
+</details>
+
+<details>
+  <summary><strong>beyerdynamic DT 1770 PRO</strong></summary>
+
+  <div align="center">
+    <img src="images/DT1770.png" alt="beyerdynamic DT 1770 PRO Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -4.3 dB
+Filter 1: ON PK Fc 29.04 Hz Gain -2.21 dB Q 0.350
+Filter 2: ON PK Fc 17989.16 Hz Gain 4.28 dB Q 0.916
 ```
 
 </details>
