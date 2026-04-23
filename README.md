@@ -464,7 +464,7 @@ Filter 2: ON PK Fc 19527.42 Hz Gain 5.63 dB Q 0.062
 </details>
 
 <details>
-  <summary><strong>beyerdynamic DT 770 PRO (32 ohm)</strong></summary>
+  <summary><strong>beyerdynamic DT 770 PRO (32 Ω)</strong></summary>
 
   <div align="center">
     <img src="images/DT770.png" alt="beyerdynamic DT 770 PRO (32 ohm) Energy-Balanced EQ" width="700">
@@ -479,7 +479,7 @@ Filter 2: ON PK Fc 8163.63 Hz Gain 3.95 dB Q 0.388
 </details>
 
 <details>
-  <summary><strong>beyerdynamic DT 880</strong></summary>
+  <summary><strong>beyerdynamic DT 880 (600 Ω)</strong></summary>
 
   <div align="center">
     <img src="images/DT880.png" alt="beyerdynamic DT 880 Energy-Balanced EQ" width="700">
