@@ -539,10 +539,10 @@ Filter 2: ON PK Fc 20000.00 Hz Gain -3.41 dB Q 0.091
 </details>
 
 <details>
-  <summary><strong>Dan Clark Audio Aeon 2 Closed</strong></summary>
+  <summary><strong>Dan Clark Audio AEON 2 CLOSED</strong></summary>
 
   <div align="center">
-    <img src="images/Aeon2Closed.png" alt="Dan Clark Audio Aeon 2 Closed Energy-Balanced EQ" width="700">
+    <img src="images/Aeon2Closed.png" alt="Dan Clark Audio AEON 2 CLOSED Energy-Balanced EQ" width="700">
   </div>
 
 ```text
@@ -554,16 +554,31 @@ Filter 2: ON PK Fc 19579.26 Hz Gain 1.62 dB Q 0.068
 </details>
 
 <details>
-  <summary><strong>Dan Clark Audio Noire X</strong></summary>
+  <summary><strong>Dan Clark Audio NOIRE X</strong></summary>
 
   <div align="center">
-    <img src="images/NoireX.png" alt="Dan Clark Audio Noire X Energy-Balanced EQ" width="700">
+    <img src="images/NoireX.png" alt="Dan Clark Audio NOIRE X Energy-Balanced EQ" width="700">
   </div>
 
 ```text
 Preamp: -7.6 dB
 Filter 1: ON PK Fc 20.00 Hz Gain -1.84 dB Q 0.086
 Filter 2: ON PK Fc 18473.63 Hz Gain 7.60 dB Q 1.193
+```
+
+</details>
+
+<details>
+  <summary><strong>Dan Clark Audio NOIRE XO</strong></summary>
+
+  <div align="center">
+    <img src="images/NoireXO.png" alt="Dan Clark Audio NOIRE XO Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -0.7 dB
+Filter 1: ON PK Fc 44.56 Hz Gain -3.33 dB Q 0.386
+Filter 2: ON PK Fc 5850.37 Hz Gain 0.69 dB Q 0.015
 ```
 
 </details>
