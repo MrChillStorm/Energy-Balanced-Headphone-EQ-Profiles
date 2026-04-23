@@ -494,7 +494,7 @@ Filter 2: ON PK Fc 8163.63 Hz Gain 3.95 dB Q 0.388
 </details>
 
 <details>
-  <summary><strong>beyerdynamic MMX 300 (2nd Gen)</strong></summary>
+  <summary><strong>beyerdynamic MMX 300 (2nd Generation)</strong></summary>
 
   <div align="center">
     <img src="images/MMX300.png" alt="beyerdynamic MMX 300 Energy-Balanced EQ" width="700">
