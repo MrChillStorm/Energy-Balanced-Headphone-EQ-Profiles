@@ -494,6 +494,21 @@ Filter 2: ON PK Fc 20000.00 Hz Gain -4.14 dB Q 0.045
 </details>
 
 <details>
+  <summary><strong>beyerdynamic DT 900 PRO X</strong></summary>
+
+  <div align="center">
+    <img src="images/DT900ProX.png" alt="beyerdynamic DT 900 PRO X Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -1.4 dB
+Filter 1: ON PK Fc 20.00 Hz Gain 1.41 dB Q 0.164
+Filter 2: ON PK Fc 20000.00 Hz Gain -4.41 dB Q 0.065
+```
+
+</details>
+
+<details>
   <summary><strong>beyerdynamic DT 990 PRO X</strong></summary>
 
   <div align="center">
