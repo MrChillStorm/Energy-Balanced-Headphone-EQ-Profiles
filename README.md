@@ -1775,6 +1775,21 @@ Filter 2: ON PK Fc 19096.88 Hz Gain 5.58 dB Q 0.079
 </details>
 
 <details>
+  <summary><strong>SIVGA Luan</strong></summary>
+
+  <div align="center">
+    <img src="images/Luan.png" alt="SIVGA Luan Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: 0.7 dB
+Filter 1: ON PK Fc 82.05 Hz Gain -7.18 dB Q 0.445
+Filter 2: ON PK Fc 20000.00 Hz Gain -3.47 dB Q 0.043
+```
+
+</details>
+
+<details>
   <summary><strong>Sony MDR-7506</strong></summary>
 
   <div align="center">
