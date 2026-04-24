@@ -569,6 +569,21 @@ Filter 2: ON PK Fc 19579.26 Hz Gain 1.62 dB Q 0.068
 </details>
 
 <details>
+  <summary><strong>Dan Clark Audio E3</strong></summary>
+
+  <div align="center">
+    <img src="images/E3.png" alt="Dan Clark Audio E3 Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -5.2 dB
+Filter 1: ON PK Fc 56.87 Hz Gain -1.92 dB Q 0.262
+Filter 2: ON PK Fc 13542.52 Hz Gain 5.20 dB Q 2.196
+```
+
+</details>
+
+<details>
   <summary><strong>Dan Clark Audio NOIRE X</strong></summary>
 
   <div align="center">
