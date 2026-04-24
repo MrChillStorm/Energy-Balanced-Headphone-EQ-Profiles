@@ -479,10 +479,10 @@ Filter 2: ON PK Fc 8163.63 Hz Gain 3.95 dB Q 0.388
 </details>
 
 <details>
-  <summary><strong>beyerdynamic DT 880 (600 Ω)</strong></summary>
+  <summary><strong>beyerdynamic DT 880 EDITION (600 Ω)</strong></summary>
 
   <div align="center">
-    <img src="images/DT880.png" alt="beyerdynamic DT 880 Energy-Balanced EQ" width="700">
+    <img src="images/DT880.png" alt="beyerdynamic DT 880 EDITION Energy-Balanced EQ" width="700">
   </div>
 
 ```text
