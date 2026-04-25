@@ -2062,3 +2062,18 @@ Filter 2: ON PK Fc 20000.00 Hz Gain 3.10 dB Q 0.086
 ```
 
 </details>
+
+<details>
+  <summary><strong>TRUTHEAR GATE</strong></summary>
+
+  <div align="center">
+    <img src="images/TruthearGate.png" alt="TRUTHEAR GATE Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -8.8 dB
+Filter 1: ON PK Fc 21.51 Hz Gain -1.20 dB Q 0.078
+Filter 2: ON PK Fc 19404.25 Hz Gain 8.80 dB Q 0.694
+```
+
+</details>
