@@ -2064,6 +2064,21 @@ Filter 2: ON PK Fc 20000.00 Hz Gain 3.10 dB Q 0.086
 </details>
 
 <details>
+  <summary><strong>Etymotic ER4SR</strong></summary>
+
+  <div align="center">
+    <img src="images/ER4SR.png" alt="Etymotic ER4SR Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -9.0 dB
+Filter 1: ON PK Fc 20.00 Hz Gain 8.99 dB Q 0.288
+Filter 2: ON PK Fc 16409.45 Hz Gain -4.10 dB Q 0.078
+```
+
+</details>
+
+<details>
   <summary><strong>TRUTHEAR GATE</strong></summary>
 
   <div align="center">
