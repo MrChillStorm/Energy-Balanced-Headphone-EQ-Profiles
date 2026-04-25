@@ -1457,6 +1457,21 @@ Filter 2: ON PK Fc 19992.29 Hz Gain -13.47 dB Q 0.256
 </details>
 
 <details>
+  <summary><strong>RØDE NTH-100</strong></summary>
+
+  <div align="center">
+    <img src="images/NTH-100.png" alt="RØDE NTH-100 Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -0.8 dB
+Filter 1: ON PK Fc 134.48 Hz Gain -3.82 dB Q 0.271
+Filter 2: ON PK Fc 8486.54 Hz Gain 0.77 dB Q 0.011
+```
+
+</details>
+
+<details>
   <summary><strong>Sennheiser HD 280 Pro</strong></summary>
 
   <div align="center">
