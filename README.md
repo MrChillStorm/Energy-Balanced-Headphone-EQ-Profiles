@@ -2043,3 +2043,7 @@ Filter 2: ON PK Fc 17558.50 Hz Gain -2.55 dB Q 0.768
 ```
 
 </details>
+
+---
+
+## Earphone EQ Profiles
