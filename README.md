@@ -2047,3 +2047,18 @@ Filter 2: ON PK Fc 17558.50 Hz Gain -2.55 dB Q 0.768
 ---
 
 ## Earphone EQ Profiles
+
+<details>
+  <summary><strong>CrinEar Reference</strong></summary>
+
+  <div align="center">
+    <img src="images/CrinEarReference.png" alt="CrinEar Reference Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -3.1 dB
+Filter 1: ON PK Fc 20.00 Hz Gain -3.03 dB Q 0.078
+Filter 2: ON PK Fc 20000.00 Hz Gain 3.10 dB Q 0.086
+```
+
+</details>
