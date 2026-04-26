@@ -554,6 +554,21 @@ Filter 2: ON PK Fc 20000.00 Hz Gain -3.41 dB Q 0.091
 </details>
 
 <details>
+  <summary><strong>beyerdynamic TYGR 300 R</strong></summary>
+
+  <div align="center">
+    <img src="images/TYGR300R.png" alt="beyerdynamic TYGR 300 R Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: 0.1 dB
+Filter 1: ON PK Fc 116.20 Hz Gain -0.51 dB Q 0.425
+Filter 2: ON PK Fc 17303.58 Hz Gain -0.20 dB Q 0.047
+```
+
+</details>
+
+<details>
   <summary><strong>Dan Clark Audio AEON 2 Closed</strong></summary>
 
   <div align="center">
