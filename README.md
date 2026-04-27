@@ -1187,6 +1187,21 @@ Filter 2: ON PK Fc 15342.46 Hz Gain -0.37 dB Q 0.085
 </details>
 
 <details>
+  <summary><strong>Kiwi Ears Altruva</strong></summary>
+
+  <div align="center">
+    <img src="images/Altruva.png" alt="Kiwi Ears Altruva Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: 0.0 dB
+Filter 1: ON PK Fc 52.58 Hz Gain -5.69 dB Q 0.299
+Filter 2: ON PK Fc 61.07 Hz Gain 2.71 dB Q 0.506
+```
+
+</details>
+
+<details>
   <summary><strong>Meze Audio 105 AER</strong></summary>
 
   <div align="center">
