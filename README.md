@@ -1457,6 +1457,21 @@ Filter 2: ON PK Fc 20000.00 Hz Gain 7.25 dB Q 0.051
 </details>
 
 <details>
+  <summary><strong>Philips Fidelio X2HR</strong></summary>
+
+  <div align="center">
+    <img src="images/X2HR.png" alt="Philips Fidelio X2HR Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -4.5 dB
+Filter 1: ON PK Fc 20.50 Hz Gain 4.47 dB Q 1.908
+Filter 2: ON PK Fc 20000.00 Hz Gain -6.36 dB Q 0.070
+```
+
+</details>
+
+<details>
   <summary><strong>Philips SPH9600</strong></summary>
 
   <div align="center">
@@ -1470,6 +1485,7 @@ Filter 2: ON PK Fc 19992.29 Hz Gain -13.47 dB Q 0.256
 ```
 
 </details>
+
 
 <details>
   <summary><strong>RØDE NTH-100</strong></summary>
