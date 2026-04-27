@@ -2079,6 +2079,21 @@ Filter 2: ON PK Fc 20000.00 Hz Gain 3.10 dB Q 0.086
 </details>
 
 <details>
+  <summary><strong>EPZ P40</strong></summary>
+
+  <div align="center">
+    <img src="images/EPZP40.png" alt="EPZ P40 Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -6.5 dB
+Filter 1: ON PK Fc 40.05 Hz Gain -24.00 dB Q 0.238
+Filter 2: ON PK Fc 20000.00 Hz Gain 6.47 dB Q 0.038
+```
+
+</details>
+
+<details>
   <summary><strong>Etymotic ER4SR</strong></summary>
 
   <div align="center">
