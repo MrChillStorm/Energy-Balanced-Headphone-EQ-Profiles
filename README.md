@@ -1202,6 +1202,21 @@ Filter 2: ON PK Fc 61.07 Hz Gain 2.71 dB Q 0.506
 </details>
 
 <details>
+  <summary><strong>Kiwi Ears Ellipse</strong></summary>
+
+  <div align="center">
+    <img src="images/Ellipse.png" alt="Kiwi Ears Ellipse Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -3.0 dB
+Filter 1: ON PK Fc 40.35 Hz Gain -6.95 dB Q 0.056
+Filter 2: ON PK Fc 12000.00 Hz Gain 3.02 dB Q 0.032
+```
+
+</details>
+
+<details>
   <summary><strong>Meze Audio 105 AER</strong></summary>
 
   <div align="center">
