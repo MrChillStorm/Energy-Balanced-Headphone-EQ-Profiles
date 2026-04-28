@@ -1705,10 +1705,9 @@ Filter 2: ON PK Fc 20000.00 Hz Gain -4.34 dB Q 0.073
   </div>
 
 ```text
-Preamp: -4.7 dB
-Filter 1: ON PK Fc 20.00 Hz Gain 4.71 dB Q 1.073
-Filter 2: ON PK Fc 6036.00 Hz Gain -3.00 dB Q 3.000
-Filter 3: ON PK Fc 20000.00 Hz Gain -3.27 dB Q 0.097
+Preamp: -3.7 dB
+Filter 1: ON PK Fc 20.48 Hz Gain 3.70 dB Q 1.438
+Filter 2: ON PK Fc 19976.59 Hz Gain -3.63 dB Q 0.088
 ```
 
 </details>
