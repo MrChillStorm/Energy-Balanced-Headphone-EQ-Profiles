@@ -554,6 +554,21 @@ Filter 2: ON PK Fc 20000.00 Hz Gain -3.41 dB Q 0.091
 </details>
 
 <details>
+  <summary><strong>beyerdynamic MMX 300 (2nd Generation)</strong></summary>
+
+  <div align="center">
+    <img src="images/MMX300-2.png" alt="beyerdynamic MMX 300 (2nd Generation) Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -2.8 dB
+Filter 1: ON PK Fc 20.00 Hz Gain -4.46 dB Q 0.068
+Filter 2: ON PK Fc 19999.97 Hz Gain 2.81 dB Q 0.039
+```
+
+</details>
+
+<details>
   <summary><strong>beyerdynamic TYGR 300 R</strong></summary>
 
   <div align="center">
