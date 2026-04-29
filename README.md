@@ -1938,6 +1938,21 @@ Filter 2: ON PK Fc 17375.09 Hz Gain 1.69 dB Q 0.736
 </details>
 
 <details>
+  <summary><strong>Sony MDR-CD900ST</strong></summary>
+
+  <div align="center">
+    <img src="images/MDR-CD900ST.png" alt="Sony MDR-CD900ST Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -9.5 dB
+Filter 1: ON PK Fc 20.00 Hz Gain 9.55 dB Q 0.426
+Filter 2: ON PK Fc 18238.27 Hz Gain -4.51 dB Q 0.082
+```
+
+</details>
+
+<details>
   <summary><strong>Sony MDR-M1</strong></summary>
 
   <div align="center">
