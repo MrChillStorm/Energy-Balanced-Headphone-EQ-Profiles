@@ -224,6 +224,21 @@ Filter 2: ON PK Fc 20000.00 Hz Gain 4.31 dB Q 0.168
 </details>
 
 <details>
+  <summary><strong>Audeze CRBN</strong></summary>
+
+  <div align="center">
+    <img src="images/CRBN.png" alt="Audeze CRBN Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -7.6 dB
+Filter 1: ON PK Fc 20.00 Hz Gain 7.56 dB Q 0.150
+Filter 2: ON PK Fc 20000.00 Hz Gain -3.81 dB Q 0.058
+```
+
+</details>
+
+<details>
   <summary><strong>Audeze LCD-2</strong></summary>
 
   <div align="center">
