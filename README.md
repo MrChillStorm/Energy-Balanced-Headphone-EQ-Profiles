@@ -1548,6 +1548,21 @@ Filter 2: ON PK Fc 19992.29 Hz Gain -13.47 dB Q 0.256
 
 
 <details>
+  <summary><strong>Requisite Audio IMMANIS</strong></summary>
+
+  <div align="center">
+    <img src="images/Immanis.png" alt="Requisite Audio IMMANIS Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -6.1 dB
+Filter 1: ON PK Fc 20.00 Hz Gain 6.13 dB Q 0.086
+Filter 2: ON PK Fc 20000.00 Hz Gain -5.23 dB Q 0.251
+```
+
+</details>
+
+<details>
   <summary><strong>RØDE NTH-100</strong></summary>
 
   <div align="center">
