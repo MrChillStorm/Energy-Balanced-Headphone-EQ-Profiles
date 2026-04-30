@@ -840,6 +840,21 @@ Filter 2: ON PK Fc 20000.00 Hz Gain -4.65 dB Q 0.071
 </details>
 
 <details>
+  <summary><strong>Focal Lensys Professional</strong></summary>
+
+  <div align="center">
+    <img src="images/Lensys.png" alt="Focal Lensys Professional Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -7.4 dB
+Filter 1: ON PK Fc 20.00 Hz Gain 3.13 dB Q 0.032
+Filter 2: ON PK Fc 19448.14 Hz Gain 7.40 dB Q 1.572
+```
+
+</details>
+
+<details>
   <summary><strong>Focal Utopia</strong></summary>
 
   <div align="center">
