@@ -795,6 +795,21 @@ Filter 2: ON PK Fc 20000.00 Hz Gain -5.24 dB Q 0.037
 </details>
 
 <details>
+  <summary><strong>Focal Azurys</strong></summary>
+
+  <div align="center">
+    <img src="images/Azurys.png" alt="Focal Azurys Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -7.9 dB
+Filter 1: ON PK Fc 20.00 Hz Gain -16.50 dB Q 0.098
+Filter 2: ON PK Fc 19999.99 Hz Gain 7.89 dB Q 0.051
+```
+
+</details>
+
+<details>
   <summary><strong>Focal Clear</strong></summary>
 
   <div align="center">
