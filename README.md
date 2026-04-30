@@ -870,6 +870,21 @@ Filter 2: ON PK Fc 19448.14 Hz Gain 7.40 dB Q 1.572
 </details>
 
 <details>
+  <summary><strong>Focal Listen Professional</strong></summary>
+
+  <div align="center">
+    <img src="images/ListenPro.png" alt="Focal Listen Professional Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -3.1 dB
+Filter 1: ON PK Fc 20.00 Hz Gain 3.11 dB Q 0.098
+Filter 2: ON PK Fc 6307.41 Hz Gain -2.34 dB Q 0.613
+```
+
+</details>
+
+<details>
   <summary><strong>Focal Utopia</strong></summary>
 
   <div align="center">
