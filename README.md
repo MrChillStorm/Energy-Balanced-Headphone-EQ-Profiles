@@ -284,6 +284,21 @@ Filter 2: ON PK Fc 19997.48 Hz Gain -1.28 dB Q 0.030
 </details>
 
 <details>
+  <summary><strong>Audeze LCD-3</strong></summary>
+
+  <div align="center">
+    <img src="images/LCD-3.png" alt="Audeze LCD-3 Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -7.1 dB
+Filter 1: ON PK Fc 20.00 Hz Gain 7.10 dB Q 0.163
+Filter 2: ON PK Fc 18986.75 Hz Gain -15.90 dB Q 0.497
+```
+
+</details>
+
+<details>
   <summary><strong>Audeze LCD-5</strong></summary>
 
   <div align="center">
