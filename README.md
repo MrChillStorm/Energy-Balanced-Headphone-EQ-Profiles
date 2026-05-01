@@ -704,6 +704,21 @@ Filter 2: ON PK Fc 5850.37 Hz Gain 0.69 dB Q 0.015
 </details>
 
 <details>
+  <summary><strong>Dan Clark Audio STEALTH</strong></summary>
+
+  <div align="center">
+    <img src="images/DCAStealth.png" alt="Dan Clark Audio STEALTH Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -4.3 dB
+Filter 1: ON PK Fc 20.00 Hz Gain -8.43 dB Q 0.201
+Filter 2: ON PK Fc 15995.19 Hz Gain 4.28 dB Q 0.261
+```
+
+</details>
+
+<details>
   <summary><strong>DUNU Arashi</strong></summary>
 
   <div align="center">
