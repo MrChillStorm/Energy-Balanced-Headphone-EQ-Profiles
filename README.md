@@ -2148,6 +2148,21 @@ Filter 2: ON PK Fc 3511.06 Hz Gain 0.09 dB Q 0.081
 </details>
 
 <details>
+  <summary><strong>Verum Audio Verum 2</strong></summary>
+
+  <div align="center">
+    <img src="images/Verum2.png" alt="Verum Audio Verum 2 Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -4.2 dB
+Filter 1: ON PK Fc 20.00 Hz Gain 4.19 dB Q 0.082
+Filter 2: ON PK Fc 20000.00 Hz Gain -2.65 dB Q 0.101
+```
+
+</details>
+
+<details>
   <summary><strong>ZMFheadphones Aeolus</strong></summary>
 
   <div align="center">
