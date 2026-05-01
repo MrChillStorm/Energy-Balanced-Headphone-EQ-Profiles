@@ -1968,6 +1968,21 @@ Filter 2: ON PK Fc 20000.00 Hz Gain 11.81 dB Q 0.059
 </details>
 
 <details>
+  <summary><strong>Shure SRH1540</strong></summary>
+
+  <div align="center">
+    <img src="images/SRH1540.png" alt="Shure SRH1540 Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -5.1 dB
+Filter 1: ON PK Fc 20.01 Hz Gain 1.17 dB Q 0.068
+Filter 2: ON PK Fc 19152.03 Hz Gain 5.10 dB Q 0.759
+```
+
+</details>
+
+<details>
   <summary><strong>Shure SRH1840</strong></summary>
 
   <div align="center">
