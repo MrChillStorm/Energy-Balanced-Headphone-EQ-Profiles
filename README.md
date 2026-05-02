@@ -1652,6 +1652,21 @@ Filter 2: ON PK Fc 20000.00 Hz Gain -6.36 dB Q 0.070
 </details>
 
 <details>
+  <summary><strong>Philips SHP9500</strong></summary>
+
+  <div align="center">
+    <img src="images/SHP9500.png" alt="Philips SHP9500 Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -8.2 dB
+Filter 1: ON PK Fc 20.00 Hz Gain 8.21 dB Q 0.695
+Filter 2: ON PK Fc 19581.48 Hz Gain -4.71 dB Q 0.066
+```
+
+</details>
+
+<details>
   <summary><strong>Philips SHP9600</strong></summary>
 
   <div align="center">
