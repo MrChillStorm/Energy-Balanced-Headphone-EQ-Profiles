@@ -2148,6 +2148,21 @@ Filter 2: ON PK Fc 20000.00 Hz Gain 10.06 dB Q 0.116
 </details>
 
 <details>
+  <summary><strong>STAX SR-009S</strong></summary>
+
+  <div align="center">
+    <img src="images/SR-009S.png" alt="STAX SR-009S Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -7.4 dB
+Filter 1: ON PK Fc 20.00 Hz Gain 7.35 dB Q 0.131
+Filter 2: ON PK Fc 17646.34 Hz Gain -11.70 dB Q 0.804
+```
+
+</details>
+
+<details>
   <summary><strong>STAX SR-X9000</strong></summary>
 
   <div align="center">
