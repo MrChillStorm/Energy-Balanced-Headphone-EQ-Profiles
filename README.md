@@ -930,6 +930,21 @@ Filter 2: ON PK Fc 20000.00 Hz Gain -4.65 dB Q 0.071
 </details>
 
 <details>
+  <summary><strong>Focal Hadenys</strong></summary>
+
+  <div align="center">
+    <img src="images/Hadenys.png" alt="Focal Hadenys Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -2.4 dB
+Filter 1: ON PK Fc 20.00 Hz Gain 2.42 dB Q 0.476
+Filter 2: ON PK Fc 11549.96 Hz Gain -7.87 dB Q 0.271
+```
+
+</details>
+
+<details>
   <summary><strong>Focal Lensys Professional</strong></summary>
 
   <div align="center">
