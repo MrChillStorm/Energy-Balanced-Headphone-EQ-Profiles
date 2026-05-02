@@ -1652,10 +1652,10 @@ Filter 2: ON PK Fc 20000.00 Hz Gain -6.36 dB Q 0.070
 </details>
 
 <details>
-  <summary><strong>Philips SPH9600</strong></summary>
+  <summary><strong>Philips SHP9600</strong></summary>
 
   <div align="center">
-    <img src="images/SPH9600.png" alt="Philips SPH9600 Energy-Balanced EQ" width="700">
+    <img src="images/SHP9600.png" alt="Philips SHP9600 Energy-Balanced EQ" width="700">
   </div>
 
 ```text
@@ -1665,7 +1665,6 @@ Filter 2: ON PK Fc 19992.29 Hz Gain -13.47 dB Q 0.256
 ```
 
 </details>
-
 
 <details>
   <summary><strong>Requisite Audio IMMANIS</strong></summary>
