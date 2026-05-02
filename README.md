@@ -855,6 +855,21 @@ Filter 2: ON PK Fc 20000.00 Hz Gain -5.24 dB Q 0.037
 </details>
 
 <details>
+  <summary><strong>final D7000</strong></summary>
+
+  <div align="center">
+    <img src="images/D7000.png" alt="final D7000 Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -1.1 dB
+Filter 1: ON PK Fc 66.80 Hz Gain -4.19 dB Q 0.250
+Filter 2: ON PK Fc 12654.06 Hz Gain 1.13 dB Q 0.016
+```
+
+</details>
+
+<details>
   <summary><strong>Focal Azurys</strong></summary>
 
   <div align="center">
