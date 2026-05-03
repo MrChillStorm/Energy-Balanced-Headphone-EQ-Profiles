@@ -1005,6 +1005,21 @@ Filter 2: ON PK Fc 15985.75 Hz Gain -5.30 dB Q 0.708
 </details>
 
 <details>
+  <summary><strong>GoldPlanar GL2000</strong></summary>
+
+  <div align="center">
+    <img src="images/GL2000.png" alt="GoldPlanar GL2000 Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -6.1 dB
+Filter 1: ON PK Fc 20.00 Hz Gain 6.11 dB Q 0.112
+Filter 2: ON PK Fc 18391.59 Hz Gain -12.20 dB Q 1.817
+```
+
+</details>
+
+<details>
   <summary><strong>Grado SR325x</strong></summary>
 
   <div align="center">
