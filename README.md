@@ -118,6 +118,21 @@ Filter 2: ON PK Fc 18338.93 Hz Gain -11.30 dB Q 2.811
 </details>
 
 <details>
+  <summary><strong>ABYSS Diana TC</strong></summary>
+
+  <div align="center">
+    <img src="images/DianaTC.png" alt="ABYSS Diana TC Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -7.9 dB
+Filter 1: ON PK Fc 20.00 Hz Gain 7.88 dB Q 0.184
+Filter 2: ON PK Fc 20000.00 Hz Gain -4.44 dB Q 0.111
+```
+
+</details>
+
+<details>
   <summary><strong>ADAM Audio H200</strong></summary>
 
   <div align="center">
@@ -2644,21 +2659,22 @@ Filter 2: ON PK Fc 20000.00 Hz Gain 5.45 dB Q 0.052
 | 139 | GoldPlanar | GL2000 | 2.400571e-06 | Open | 2 |
 | 140 | FIIO | FT1 Pro | 2.652701e-06 | Open | 2 |
 | 141 | Sennheiser | HD 580 Precision | 2.842069e-06 | Open | 2 |
-| 142 | Philips | SHP9500 | 2.875526e-06 | Open | 2 |
-| 143 | Philips | SHP9600 | 2.875764e-06 | Open | 2 |
-| 144 | Shanling | HW600 | 3.107667e-06 | Open | 2 |
-| 145 | Audeze | LCD-3 | 3.151261e-06 | Open | 2 |
-| 146 | Audeze | LCD-4z | 3.166422e-06 | Open | 2 |
-| 147 | Sennheiser | HE 60 | 3.504278e-06 | Open | 2 |
-| 148 | Sony | MDR-CD900ST | 3.603541e-06 | Closed | 2 |
-| 149 | Fostex | T50RP | 4.332885e-06 | Closed | 2 |
-| 150 | Audio-Technica | ATH-R70x | 4.405397e-06 | Open | 2 |
-| 151 | Focal | Clear Professional | 4.693833e-06 | Open | 2 |
-| 152 | Sennheiser | HD 600 | 4.816061e-06 | Open | 2 |
-| 153 | Grado | SR325x | 5.103283e-06 | Open | 2 |
-| 154 | STAX | SR-009S | 5.200615e-06 | Open | 2 |
-| 155 | STAX | SR-X9000 | 7.37934e-06 | Open | 2 |
-| 156 | MOONDROP | HORIZON | 1.3959019e-05 | Open | 2 |
-| 157 | Superlux | HD681 | 1.5618112e-05 | Semi-Open | 2 |
-| 158 | HarmonicDyne | Poseidon | 1.870844e-05 | Open | 3 |
-| 159 | MOONDROP | Old Fashioned | 4.9013292e-05 | Open | 2 |
+| 142 | ABYSS | Diana TC | 2.865962e-06 | Open | 2 |
+| 143 | Philips | SHP9500 | 2.875526e-06 | Open | 2 |
+| 144 | Philips | SHP9600 | 2.875764e-06 | Open | 2 |
+| 145 | Shanling | HW600 | 3.107667e-06 | Open | 2 |
+| 146 | Audeze | LCD-3 | 3.151261e-06 | Open | 2 |
+| 147 | Audeze | LCD-4z | 3.166422e-06 | Open | 2 |
+| 148 | Sennheiser | HE 60 | 3.504278e-06 | Open | 2 |
+| 149 | Sony | MDR-CD900ST | 3.603541e-06 | Closed | 2 |
+| 150 | Fostex | T50RP | 4.332885e-06 | Closed | 2 |
+| 151 | Audio-Technica | ATH-R70x | 4.405397e-06 | Open | 2 |
+| 152 | Focal | Clear Professional | 4.693833e-06 | Open | 2 |
+| 153 | Sennheiser | HD 600 | 4.816061e-06 | Open | 2 |
+| 154 | Grado | SR325x | 5.103283e-06 | Open | 2 |
+| 155 | STAX | SR-009S | 5.200615e-06 | Open | 2 |
+| 156 | STAX | SR-X9000 | 7.37934e-06 | Open | 2 |
+| 157 | MOONDROP | HORIZON | 1.3959019e-05 | Open | 2 |
+| 158 | Superlux | HD681 | 1.5618112e-05 | Semi-Open | 2 |
+| 159 | HarmonicDyne | Poseidon | 1.870844e-05 | Open | 3 |
+| 160 | MOONDROP | Old Fashioned | 4.9013292e-05 | Open | 2 |
