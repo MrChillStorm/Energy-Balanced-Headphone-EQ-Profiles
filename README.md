@@ -88,7 +88,7 @@ These profiles are calibrated against a physics-level target rather than a psych
 
 ## Reference Targets
 
-The `targets` folder contains energy-balanced versions of five widely used perceptual targets: Diffuse-Field, Harman Over-Ear 2018, oratory1990 optimum hifi, Harman In-Ear 2019, and JM-1. These are the original curves after applying the same energy-balancing correction described above -- their spectral power delivery has been flattened to match white noise while preserving the underlying tonal shape.
+The `targets` folder contains energy-balanced versions of six widely used perceptual targets: Diffuse-Field, Harman Over-Ear 2018, Harman MoA 2025, oratory1990 optimum hifi, Harman In-Ear 2019, and JM-1. These are the original curves after applying the same energy-balancing correction described above -- their spectral power delivery has been flattened to match white noise while preserving the underlying tonal shape.
 
 They are provided for anyone who wants to use conventional dB-domain curve matching but with a physically corrected starting point. If you prefer the warmth of Harman or the leaner character of DF but still want flat energy delivery, these targets let you have both.
 
