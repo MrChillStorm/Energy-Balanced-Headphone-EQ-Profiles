@@ -1622,6 +1622,21 @@ Filter 2: ON PK Fc 18366.26 Hz Gain -6.00 dB Q 2.895
 </details>
 
 <details>
+  <summary><strong>MOONDROP Old Fashioned</strong></summary>
+
+  <div align="center">
+    <img src="images/OldFashioned.png" alt="MOONDROP Old Fashioned Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -7.0 dB
+Filter 1: ON PK Fc 20.00 Hz Gain 6.96 dB Q 0.295
+Filter 2: ON PK Fc 20000.00 Hz Gain -6.17 dB Q 0.041
+```
+
+</details>
+
+<details>
   <summary><strong>MOONDROP PARA2</strong></summary>
 
   <div align="center">
@@ -2646,3 +2661,4 @@ Filter 2: ON PK Fc 20000.00 Hz Gain 5.45 dB Q 0.052
 | 156 | MOONDROP | HORIZON | 1.3959019e-05 | Open | 2 |
 | 157 | Superlux | HD681 | 1.5618112e-05 | Semi-Open | 2 |
 | 158 | HarmonicDyne | Poseidon | 1.870844e-05 | Open | 3 |
+| 159 | MOONDROP | Old Fashioned | 4.9013292e-05 | Open | 2 |
