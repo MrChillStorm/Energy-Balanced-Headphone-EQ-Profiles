@@ -704,6 +704,21 @@ Filter 2: ON PK Fc 19579.26 Hz Gain 1.62 dB Q 0.068
 </details>
 
 <details>
+  <summary><strong>Dan Clark Audio CORINA</strong></summary>
+
+  <div align="center">
+    <img src="images/Corina.png" alt="Dan Clark Audio CORINA Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -9.0 dB
+Filter 1: ON PK Fc 20.00 Hz Gain 9.00 dB Q 0.155
+Filter 2: ON PK Fc 20000.00 Hz Gain -2.76 dB Q 0.058
+```
+
+</details>
+
+<details>
   <summary><strong>Dan Clark Audio E3</strong></summary>
 
   <div align="center">
@@ -2666,31 +2681,32 @@ Filter 2: ON PK Fc 20000.00 Hz Gain 5.45 dB Q 0.052
 | 131 | ZMFheadphones | Atrium | 1.87071e-06 | Open | 2 |
 | 132 | MOONDROP | COSMO | 1.908023e-06 | Open | 2 |
 | 133 | DUNU | Arashi | 1.934986e-06 | Open | 2 |
-| 134 | Focal | Elex | 1.995322e-06 | Open | 2 |
-| 135 | Sennheiser | HD 650 | 2.11785e-06 | Open | 2 |
-| 136 | MOONDROP | PARA2 | 2.183694e-06 | Open | 2 |
-| 137 | Sennheiser | HD 490 Pro (Mixing Pads) | 2.252421e-06 | Open | 2 |
-| 138 | ZMFheadphones | Aeolus | 2.285095e-06 | Open | 2 |
-| 139 | Focal | Clear | 2.38577e-06 | Open | 2 |
-| 140 | GoldPlanar | GL2000 | 2.400571e-06 | Open | 2 |
-| 141 | FIIO | FT1 Pro | 2.652701e-06 | Open | 2 |
-| 142 | Sennheiser | HD 580 Precision | 2.842069e-06 | Open | 2 |
-| 143 | ABYSS | Diana TC | 2.865962e-06 | Open | 2 |
-| 144 | Philips | SHP9500 | 2.875526e-06 | Open | 2 |
-| 145 | Philips | SHP9600 | 2.875764e-06 | Open | 2 |
-| 146 | Shanling | HW600 | 3.107667e-06 | Open | 2 |
-| 147 | Audeze | LCD-3 | 3.151261e-06 | Open | 2 |
-| 148 | Audeze | LCD-4z | 3.166422e-06 | Open | 2 |
-| 149 | Sennheiser | HE 60 | 3.504278e-06 | Open | 2 |
-| 150 | Sony | MDR-CD900ST | 3.603541e-06 | Closed | 2 |
-| 151 | Fostex | T50RP | 4.332885e-06 | Closed | 2 |
-| 152 | Audio-Technica | ATH-R70x | 4.405397e-06 | Open | 2 |
-| 153 | Focal | Clear Professional | 4.693833e-06 | Open | 2 |
-| 154 | Sennheiser | HD 600 | 4.816061e-06 | Open | 2 |
-| 155 | Grado | SR325x | 5.103283e-06 | Open | 2 |
-| 156 | STAX | SR-009S | 5.200615e-06 | Open | 2 |
-| 157 | STAX | SR-X9000 | 7.37934e-06 | Open | 2 |
-| 158 | MOONDROP | HORIZON | 1.3959019e-05 | Open | 2 |
-| 159 | Superlux | HD681 | 1.5618112e-05 | Semi-Open | 2 |
-| 160 | HarmonicDyne | Poseidon | 1.870844e-05 | Open | 3 |
-| 161 | MOONDROP | Old Fashioned | 4.9013292e-05 | Open | 2 |
+| 134 | Dan Clark Audio | CORINA | 1.956289e-06 | Open | 2 |
+| 135 | Focal | Elex | 1.995322e-06 | Open | 2 |
+| 136 | Sennheiser | HD 650 | 2.11785e-06 | Open | 2 |
+| 137 | MOONDROP | PARA2 | 2.183694e-06 | Open | 2 |
+| 138 | Sennheiser | HD 490 Pro (Mixing Pads) | 2.252421e-06 | Open | 2 |
+| 139 | ZMFheadphones | Aeolus | 2.285095e-06 | Open | 2 |
+| 140 | Focal | Clear | 2.38577e-06 | Open | 2 |
+| 141 | GoldPlanar | GL2000 | 2.400571e-06 | Open | 2 |
+| 142 | FIIO | FT1 Pro | 2.652701e-06 | Open | 2 |
+| 143 | Sennheiser | HD 580 Precision | 2.842069e-06 | Open | 2 |
+| 144 | ABYSS | Diana TC | 2.865962e-06 | Open | 2 |
+| 145 | Philips | SHP9500 | 2.875526e-06 | Open | 2 |
+| 146 | Philips | SHP9600 | 2.875764e-06 | Open | 2 |
+| 147 | Shanling | HW600 | 3.107667e-06 | Open | 2 |
+| 148 | Audeze | LCD-3 | 3.151261e-06 | Open | 2 |
+| 149 | Audeze | LCD-4z | 3.166422e-06 | Open | 2 |
+| 150 | Sennheiser | HE 60 | 3.504278e-06 | Open | 2 |
+| 151 | Sony | MDR-CD900ST | 3.603541e-06 | Closed | 2 |
+| 152 | Fostex | T50RP | 4.332885e-06 | Closed | 2 |
+| 153 | Audio-Technica | ATH-R70x | 4.405397e-06 | Open | 2 |
+| 154 | Focal | Clear Professional | 4.693833e-06 | Open | 2 |
+| 155 | Sennheiser | HD 600 | 4.816061e-06 | Open | 2 |
+| 156 | Grado | SR325x | 5.103283e-06 | Open | 2 |
+| 157 | STAX | SR-009S | 5.200615e-06 | Open | 2 |
+| 158 | STAX | SR-X9000 | 7.37934e-06 | Open | 2 |
+| 159 | MOONDROP | HORIZON | 1.3959019e-05 | Open | 2 |
+| 160 | Superlux | HD681 | 1.5618112e-05 | Semi-Open | 2 |
+| 161 | HarmonicDyne | Poseidon | 1.870844e-05 | Open | 3 |
+| 162 | MOONDROP | Old Fashioned | 4.9013292e-05 | Open | 2 |
