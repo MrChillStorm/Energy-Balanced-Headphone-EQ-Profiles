@@ -509,6 +509,22 @@ Filter 2: ON PK Fc 19363.88 Hz Gain 3.37 dB Q 0.066
 </details>
 
 <details>
+  <summary><strong>Austrian Audio The Composer</strong></summary>
+
+  <div align="center">
+    <img src="images/Composer.png" alt="Austrian Audio The Composer Energy-Balanced EQ" width="700">
+  </div>
+
+```text
+Preamp: -5.9 dB
+Filter 1: ON PK Fc 34.56 Hz Gain -1.39 dB Q 0.148
+Filter 2: ON PK Fc 2923.77 Hz Gain -3.41 dB Q 2.998
+Filter 3: ON PK Fc 19149.11 Hz Gain 5.90 dB Q 1.122
+```
+
+</details>
+
+<details>
   <summary><strong>beyerdynamic DT 270 PRO</strong></summary>
 
   <div align="center">
@@ -2635,78 +2651,79 @@ Filter 2: ON PK Fc 20000.00 Hz Gain 5.45 dB Q 0.052
 | 85 | Sony | WH-1000XM4 | 6.64307e-07 | Closed | 2 |
 | 86 | AKG | K371 | 6.73017e-07 | Closed | 3 |
 | 87 | FIIO | FT7 | 6.92839e-07 | Open | 2 |
-| 88 | Audeze | LCD-X | 7.17357e-07 | Open | 2 |
-| 89 | Sony | MDR-M1 | 7.28185e-07 | Closed | 2 |
-| 90 | Audeze | MM-500 | 7.2874e-07 | Open | 2 |
-| 91 | Sennheiser | HE 90 | 7.35675e-07 | Open | 2 |
-| 92 | NOTHING | cfm headphone pro | 7.43704e-07 | Closed | 2 |
-| 93 | Simgot | EP5 | 7.53852e-07 | Semi-Open | 2 |
-| 94 | Meze Audio | LIRIC (2nd Generation) | 7.88947e-07 | Closed | 2 |
-| 95 | Meze Audio | POET | 7.89638e-07 | Open | 2 |
-| 96 | FIIO | JT7 | 7.9978e-07 | Open | 2 |
-| 97 | FIIO | FT13 | 8.31031e-07 | Closed | 2 |
-| 98 | beyerdynamic | DT 1990 PRO (Velour Pads) | 8.31065e-07 | Open | 2 |
-| 99 | Focal | Utopia | 8.32043e-07 | Open | 2 |
-| 100 | Dan Clark Audio | NOIRE X | 8.41602e-07 | Closed | 2 |
-| 101 | Focal | Lensys Professional | 8.41851e-07 | Closed | 2 |
-| 102 | AKG | K361 | 8.69279e-07 | Closed | 2 |
-| 103 | Sennheiser | HD 280 Pro | 8.74004e-07 | Closed | 2 |
-| 104 | TRUTHEAR | GATE | 8.74041e-07 | IEM | 2 |
-| 105 | Etymotic | ER4SR | 8.74405e-07 | IEM | 2 |
-| 106 | MOONDROP | SKYLAND | 8.7447e-07 | Open | 2 |
-| 107 | Sennheiser | HD 550 | 9.0253e-07 | Open | 2 |
-| 108 | Audeze | LCD-5 | 9.18079e-07 | Open | 2 |
-| 109 | Shure | SRH1840 | 9.37864e-07 | Open | 2 |
-| 110 | beyerdynamic | DT 990 PRO X | 9.42725e-07 | Open | 2 |
-| 111 | HIFIMAN | HE600 | 9.68139e-07 | Open | 2 |
-| 112 | Philips | Fidelio X2HR | 9.79075e-07 | Open | 2 |
-| 113 | HarmonicDyne x Z Reviews | Eris | 9.86578e-07 | Semi-Open | 2 |
-| 114 | Sennheiser | HD 505 | 1.206554e-06 | Open | 2 |
-| 115 | ZMFheadphones | Auteur Classic | 1.227804e-06 | Open | 2 |
-| 116 | AKG | K612 PRO | 1.236939e-06 | Open | 2 |
-| 117 | HIFIMAN | HE400se | 1.256207e-06 | Open | 2 |
-| 118 | Focal | Hadenys | 1.292864e-06 | Open | 2 |
-| 119 | HIFIMAN | Sundara Silver | 1.325389e-06 | Open | 3 |
-| 120 | Requisite Audio | IMMANIS | 1.330053e-06 | Open | 2 |
-| 121 | Audio-Technica | ATH-ADX7000 | 1.371085e-06 | Open | 2 |
-| 122 | ABYSS | AB1266 TC | 1.46988e-06 | Open | 2 |
-| 123 | HIFIMAN | Sundara Closed-Back | 1.511708e-06 | Closed | 2 |
-| 124 | Sennheiser | HD 560S | 1.516441e-06 | Open | 2 |
-| 125 | AKG | K702 | 1.587941e-06 | Open | 2 |
-| 126 | Monoprice | Monolith M1570 | 1.643487e-06 | Open | 2 |
-| 127 | Audeze | CRBN | 1.752656e-06 | Open | 2 |
-| 128 | Audeze | MM-100 | 1.773797e-06 | Open | 2 |
-| 129 | Sennheiser | HD 660S2 | 1.802972e-06 | Open | 2 |
-| 130 | Audeze | LCD-XC | 1.85129e-06 | Closed | 2 |
-| 131 | ZMFheadphones | Atrium | 1.87071e-06 | Open | 2 |
-| 132 | MOONDROP | COSMO | 1.908023e-06 | Open | 2 |
-| 133 | DUNU | Arashi | 1.934986e-06 | Open | 2 |
-| 134 | Dan Clark Audio | CORINA | 1.956289e-06 | Open | 2 |
-| 135 | Focal | Elex | 1.995322e-06 | Open | 2 |
-| 136 | Sennheiser | HD 650 | 2.11785e-06 | Open | 2 |
-| 137 | MOONDROP | PARA2 | 2.183694e-06 | Open | 2 |
-| 138 | Sennheiser | HD 490 Pro (Mixing Pads) | 2.252421e-06 | Open | 2 |
-| 139 | ZMFheadphones | Aeolus | 2.285095e-06 | Open | 2 |
-| 140 | Focal | Clear | 2.38577e-06 | Open | 2 |
-| 141 | GoldPlanar | GL2000 | 2.400571e-06 | Open | 2 |
-| 142 | FIIO | FT1 Pro | 2.652701e-06 | Open | 2 |
-| 143 | Sennheiser | HD 580 Precision | 2.842069e-06 | Open | 2 |
-| 144 | ABYSS | Diana TC | 2.865962e-06 | Open | 2 |
-| 145 | Philips | SHP9500 | 2.875526e-06 | Open | 2 |
-| 146 | Philips | SHP9600 | 2.875764e-06 | Open | 2 |
-| 147 | Shanling | HW600 | 3.107667e-06 | Open | 2 |
-| 148 | Audeze | LCD-3 | 3.151261e-06 | Open | 2 |
-| 149 | Audeze | LCD-4z | 3.166422e-06 | Open | 2 |
-| 150 | Sennheiser | HE 60 | 3.504278e-06 | Open | 2 |
-| 151 | Sony | MDR-CD900ST | 3.603541e-06 | Closed | 2 |
-| 152 | Fostex | T50RP | 4.332885e-06 | Closed | 2 |
-| 153 | Audio-Technica | ATH-R70x | 4.405397e-06 | Open | 2 |
-| 154 | Focal | Clear Professional | 4.693833e-06 | Open | 2 |
-| 155 | Sennheiser | HD 600 | 4.816061e-06 | Open | 2 |
-| 156 | Grado | SR325x | 5.103283e-06 | Open | 2 |
-| 157 | STAX | SR-009S | 5.200615e-06 | Open | 2 |
-| 158 | STAX | SR-X9000 | 7.37934e-06 | Open | 2 |
-| 159 | MOONDROP | HORIZON | 1.3959019e-05 | Open | 2 |
-| 160 | Superlux | HD681 | 1.5618112e-05 | Semi-Open | 2 |
-| 161 | HarmonicDyne | Poseidon | 1.870844e-05 | Open | 3 |
-| 162 | MOONDROP | Old Fashioned | 4.9013292e-05 | Open | 2 |
+| 88 | Austrian Audio | The Composer | 7.09786e-07 | Open | 3 |
+| 89 | Audeze | LCD-X | 7.17357e-07 | Open | 2 |
+| 90 | Sony | MDR-M1 | 7.28185e-07 | Closed | 2 |
+| 91 | Audeze | MM-500 | 7.2874e-07 | Open | 2 |
+| 92 | Sennheiser | HE 90 | 7.35675e-07 | Open | 2 |
+| 93 | NOTHING | cfm headphone pro | 7.43704e-07 | Closed | 2 |
+| 94 | Simgot | EP5 | 7.53852e-07 | Semi-Open | 2 |
+| 95 | Meze Audio | LIRIC (2nd Generation) | 7.88947e-07 | Closed | 2 |
+| 96 | Meze Audio | POET | 7.89638e-07 | Open | 2 |
+| 97 | FIIO | JT7 | 7.9978e-07 | Open | 2 |
+| 98 | FIIO | FT13 | 8.31031e-07 | Closed | 2 |
+| 99 | beyerdynamic | DT 1990 PRO (Velour Pads) | 8.31065e-07 | Open | 2 |
+| 100 | Focal | Utopia | 8.32043e-07 | Open | 2 |
+| 101 | Dan Clark Audio | NOIRE X | 8.41602e-07 | Closed | 2 |
+| 102 | Focal | Lensys Professional | 8.41851e-07 | Closed | 2 |
+| 103 | AKG | K361 | 8.69279e-07 | Closed | 2 |
+| 104 | Sennheiser | HD 280 Pro | 8.74004e-07 | Closed | 2 |
+| 105 | TRUTHEAR | GATE | 8.74041e-07 | IEM | 2 |
+| 106 | Etymotic | ER4SR | 8.74405e-07 | IEM | 2 |
+| 107 | MOONDROP | SKYLAND | 8.7447e-07 | Open | 2 |
+| 108 | Sennheiser | HD 550 | 9.0253e-07 | Open | 2 |
+| 109 | Audeze | LCD-5 | 9.18079e-07 | Open | 2 |
+| 110 | Shure | SRH1840 | 9.37864e-07 | Open | 2 |
+| 111 | beyerdynamic | DT 990 PRO X | 9.42725e-07 | Open | 2 |
+| 112 | HIFIMAN | HE600 | 9.68139e-07 | Open | 2 |
+| 113 | Philips | Fidelio X2HR | 9.79075e-07 | Open | 2 |
+| 114 | HarmonicDyne x Z Reviews | Eris | 9.86578e-07 | Semi-Open | 2 |
+| 115 | Sennheiser | HD 505 | 1.206554e-06 | Open | 2 |
+| 116 | ZMFheadphones | Auteur Classic | 1.227804e-06 | Open | 2 |
+| 117 | AKG | K612 PRO | 1.236939e-06 | Open | 2 |
+| 118 | HIFIMAN | HE400se | 1.256207e-06 | Open | 2 |
+| 119 | Focal | Hadenys | 1.292864e-06 | Open | 2 |
+| 120 | HIFIMAN | Sundara Silver | 1.325389e-06 | Open | 3 |
+| 121 | Requisite Audio | IMMANIS | 1.330053e-06 | Open | 2 |
+| 122 | Audio-Technica | ATH-ADX7000 | 1.371085e-06 | Open | 2 |
+| 123 | ABYSS | AB1266 TC | 1.46988e-06 | Open | 2 |
+| 124 | HIFIMAN | Sundara Closed-Back | 1.511708e-06 | Closed | 2 |
+| 125 | Sennheiser | HD 560S | 1.516441e-06 | Open | 2 |
+| 126 | AKG | K702 | 1.587941e-06 | Open | 2 |
+| 127 | Monoprice | Monolith M1570 | 1.643487e-06 | Open | 2 |
+| 128 | Audeze | CRBN | 1.752656e-06 | Open | 2 |
+| 129 | Audeze | MM-100 | 1.773797e-06 | Open | 2 |
+| 130 | Sennheiser | HD 660S2 | 1.802972e-06 | Open | 2 |
+| 131 | Audeze | LCD-XC | 1.85129e-06 | Closed | 2 |
+| 132 | ZMFheadphones | Atrium | 1.87071e-06 | Open | 2 |
+| 133 | MOONDROP | COSMO | 1.908023e-06 | Open | 2 |
+| 134 | DUNU | Arashi | 1.934986e-06 | Open | 2 |
+| 135 | Dan Clark Audio | CORINA | 1.956289e-06 | Open | 2 |
+| 136 | Focal | Elex | 1.995322e-06 | Open | 2 |
+| 137 | Sennheiser | HD 650 | 2.11785e-06 | Open | 2 |
+| 138 | MOONDROP | PARA2 | 2.183694e-06 | Open | 2 |
+| 139 | Sennheiser | HD 490 Pro (Mixing Pads) | 2.252421e-06 | Open | 2 |
+| 140 | ZMFheadphones | Aeolus | 2.285095e-06 | Open | 2 |
+| 141 | Focal | Clear | 2.38577e-06 | Open | 2 |
+| 142 | GoldPlanar | GL2000 | 2.400571e-06 | Open | 2 |
+| 143 | FIIO | FT1 Pro | 2.652701e-06 | Open | 2 |
+| 144 | Sennheiser | HD 580 Precision | 2.842069e-06 | Open | 2 |
+| 145 | ABYSS | Diana TC | 2.865962e-06 | Open | 2 |
+| 146 | Philips | SHP9500 | 2.875526e-06 | Open | 2 |
+| 147 | Philips | SHP9600 | 2.875764e-06 | Open | 2 |
+| 148 | Shanling | HW600 | 3.107667e-06 | Open | 2 |
+| 149 | Audeze | LCD-3 | 3.151261e-06 | Open | 2 |
+| 150 | Audeze | LCD-4z | 3.166422e-06 | Open | 2 |
+| 151 | Sennheiser | HE 60 | 3.504278e-06 | Open | 2 |
+| 152 | Sony | MDR-CD900ST | 3.603541e-06 | Closed | 2 |
+| 153 | Fostex | T50RP | 4.332885e-06 | Closed | 2 |
+| 154 | Audio-Technica | ATH-R70x | 4.405397e-06 | Open | 2 |
+| 155 | Focal | Clear Professional | 4.693833e-06 | Open | 2 |
+| 156 | Sennheiser | HD 600 | 4.816061e-06 | Open | 2 |
+| 157 | Grado | SR325x | 5.103283e-06 | Open | 2 |
+| 158 | STAX | SR-009S | 5.200615e-06 | Open | 2 |
+| 159 | STAX | SR-X9000 | 7.37934e-06 | Open | 2 |
+| 160 | MOONDROP | HORIZON | 1.3959019e-05 | Open | 2 |
+| 161 | Superlux | HD681 | 1.5618112e-05 | Semi-Open | 2 |
+| 162 | HarmonicDyne | Poseidon | 1.870844e-05 | Open | 3 |
+| 163 | MOONDROP | Old Fashioned | 4.9013292e-05 | Open | 2 |
